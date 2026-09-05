@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Large regenerated row-level artifacts; keep summaries and manifests visible.
+results/**/predictions.csv
+results/**/common_cohort_predictions.csv
+results/**/selected_bets.csv
+results/**/linked_market.csv

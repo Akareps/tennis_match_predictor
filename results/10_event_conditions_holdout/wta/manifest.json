@@ -1,0 +1,115 @@
+{
+  "bootstrap_samples": 2000,
+  "created_utc": "2026-09-05T12:04:20.078761+00:00",
+  "forecast_horizon": "round",
+  "history_start": 2021,
+  "implementation": [
+    {
+      "bytes": 677,
+      "path": "tennis_experiments\\__init__.py",
+      "sha256": "44c4f0a8d2a46e76142fcc4bc04db3905b478105f2ff46b8adc60674e75afe52"
+    },
+    {
+      "bytes": 7774,
+      "path": "tennis_experiments\\backtest.py",
+      "sha256": "2323c4a2bbbeef82d3fb7b0fb0f2f7e3393a2e518d49cbe7f4187b8f7590ec41"
+    },
+    {
+      "bytes": 65939,
+      "path": "tennis_experiments\\conditions.py",
+      "sha256": "d49533f001f660d95cfd660aaa56919a52715c6b17402f57c64ede70152142f0"
+    },
+    {
+      "bytes": 21981,
+      "path": "tennis_experiments\\cross_tier.py",
+      "sha256": "0393f740af1b55df30c81bb97861529d0fdcb2313c0735c3e40036ab1ed04697"
+    },
+    {
+      "bytes": 15068,
+      "path": "tennis_experiments\\data.py",
+      "sha256": "c30fbc0de9ecd4608536e5af4c0a17cdacbd3da909b429cdd24a9cae1228fc4a"
+    },
+    {
+      "bytes": 29926,
+      "path": "tennis_experiments\\experiment.py",
+      "sha256": "cc7a227281dd1c21f7050ca3a9fc569a11fdcfac7b56b08f5eea17ed8f5d66f2"
+    },
+    {
+      "bytes": 40037,
+      "path": "tennis_experiments\\fitness.py",
+      "sha256": "2c4e748b35a622d2f255a6fd6c705662e24a6520c7ac87a96d1fb3577da05155"
+    },
+    {
+      "bytes": 30404,
+      "path": "tennis_experiments\\linkage.py",
+      "sha256": "57dd1bc8d2bcc878de17af16e9e918900823099cb9d0f772908c2c4a9483e393"
+    },
+    {
+      "bytes": 10651,
+      "path": "tennis_experiments\\market_data.py",
+      "sha256": "482635876fa131db86600d06ee53310447eaa63be66758cbea4b09c393886218"
+    },
+    {
+      "bytes": 6878,
+      "path": "tennis_experiments\\metrics.py",
+      "sha256": "df4e3a9ca8800ca738954ff67aa34a421b52b6691a765e153870665f82136ca0"
+    },
+    {
+      "bytes": 12593,
+      "path": "tennis_experiments\\models.py",
+      "sha256": "2514a7f208410e65eee60023d3cda827e8065b6cb058e6d80e44ab211af11340"
+    },
+    {
+      "bytes": 12197,
+      "path": "tennis_experiments\\odds.py",
+      "sha256": "c9ff1ef02b5f819d80c1d65335bde8bfd2908ef56c4901eb5d7fe21c2bc5bdfd"
+    },
+    {
+      "bytes": 5162,
+      "path": "tennis_experiments\\validation.py",
+      "sha256": "b255fe74b8fde8379ba313b2972496e2b17721eb27f09c0048c6a930cde9d4ed"
+    },
+    {
+      "bytes": 2599,
+      "path": "run_experiments.py",
+      "sha256": "e69d82da92e1e8fd41655981a5065f330a6013364836ed8fc207df7e8302e81e"
+    }
+  ],
+  "inputs": [
+    {
+      "bytes": 531828,
+      "path": "data\\wta_matches_2021.csv",
+      "sha256": "3f4b865fe9f68aedb3d51597740cf658cf805f676bae652f2bc93cbab4f6e99f"
+    },
+    {
+      "bytes": 530984,
+      "path": "data\\wta_matches_2022.csv",
+      "sha256": "f638cf65efefb01a1a10368c1d5217d5f90981fb76193ca3a9c3773c2abc2ba7"
+    },
+    {
+      "bytes": 569610,
+      "path": "data\\wta_matches_2023.csv",
+      "sha256": "b73bf74928155b858cdb7045f6334246336cef604286cb361e695df26911ad18"
+    },
+    {
+      "bytes": 542425,
+      "path": "data\\wta_matches_2024.csv",
+      "sha256": "d9bba2a0b3793f63c737ef62a809b82b56b3ad0ee94e1f95e78cecfac7615ed2"
+    }
+  ],
+  "market_prices_used": false,
+  "numpy": "2.3.5",
+  "package_version": "0.1.0",
+  "pandas": "3.0.1",
+  "python": "3.12.14",
+  "stage": "10_event_conditions_holdout",
+  "test_year": 2024,
+  "tour": "wta",
+  "upstream_artifacts": [
+    {
+      "bytes": 3980,
+      "path": "results\\09_event_conditions_validation\\wta\\selected_config.json",
+      "sha256": "9d0b3ea19529fab58c805d3f531b0cdd050a0405b22c03c5dcd1d5522468aa5a"
+    }
+  ]
+}

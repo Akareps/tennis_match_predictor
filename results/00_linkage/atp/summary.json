@@ -1,0 +1,24 @@
+{
+  "actual_match_date_max": "2024-11-17 00:00:00",
+  "actual_match_date_min": "2023-12-31 00:00:00",
+  "average_fallback_rows": 6,
+  "invalid_odds_rows": 48,
+  "link_rate": 0.8270481144343304,
+  "matched_rows": 2544,
+  "odds_rows": 2703,
+  "outcome_label_disagreements": 1,
+  "pinnacle_rows": 2534,
+  "priced_rows": 2540,
+  "reason_counts": {
+    "below_min_score": 4,
+    "lost_one_to_one_assignment": 1,
+    "matched": 2544,
+    "no_pair_candidate": 479,
+    "outside_date_window": 48
+  },
+  "sackmann_rows": 3076,
+  "tour": "atp",
+  "unmatched_sackmann_rows": 532,
+  "unused_valid_odds_rows": 111,
+  "valid_odds_rows": 2655
+}

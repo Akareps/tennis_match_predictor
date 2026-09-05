@@ -1,0 +1,206 @@
+{
+  "rows": [
+    {
+      "bets": 2181,
+      "family": "overall_elo",
+      "horizon": "draw",
+      "mean_price": 3.316602475928473,
+      "price_source": "pinnacle",
+      "profit": -207.98000000000002,
+      "roi": -0.09535992663915636,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2179,
+      "family": "overall_elo",
+      "horizon": "draw",
+      "mean_price": 3.0573428178063335,
+      "price_source": "bet365",
+      "profit": -275.01,
+      "roi": -0.1262092703074805,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2181,
+      "family": "overall_elo",
+      "horizon": "draw",
+      "mean_price": 3.4055112333791837,
+      "price_source": "ex_post_maximum",
+      "profit": -172.47000000000003,
+      "roi": -0.07907840440165063,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2183,
+      "family": "rank_warmstart",
+      "horizon": "draw",
+      "mean_price": 3.50171781951443,
+      "price_source": "pinnacle",
+      "profit": -197.70000000000002,
+      "roi": -0.09056344480073295,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2181,
+      "family": "rank_warmstart",
+      "horizon": "draw",
+      "mean_price": 3.2135855112333798,
+      "price_source": "bet365",
+      "profit": -269.58000000000004,
+      "roi": -0.12360385144429163,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2183,
+      "family": "rank_warmstart",
+      "horizon": "draw",
+      "mean_price": 3.5928630325240496,
+      "price_source": "ex_post_maximum",
+      "profit": -162.88000000000002,
+      "roi": -0.07461291800274852,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2173,
+      "family": "surface_elo",
+      "horizon": "draw",
+      "mean_price": 3.524196962724344,
+      "price_source": "pinnacle",
+      "profit": -197.63000000000002,
+      "roi": -0.09094799815922688,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2171,
+      "family": "surface_elo",
+      "horizon": "draw",
+      "mean_price": 3.236453247351451,
+      "price_source": "bet365",
+      "profit": -270.63,
+      "roi": -0.1246568401658222,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2173,
+      "family": "surface_elo",
+      "horizon": "draw",
+      "mean_price": 3.616746433502071,
+      "price_source": "ex_post_maximum",
+      "profit": -163.05000000000004,
+      "roi": -0.07503451449608838,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2169,
+      "family": "overall_elo",
+      "horizon": "round",
+      "mean_price": 3.3588151221761184,
+      "price_source": "pinnacle",
+      "profit": -189.67000000000002,
+      "roi": -0.0874458275703089,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2167,
+      "family": "overall_elo",
+      "horizon": "round",
+      "mean_price": 3.093991693585602,
+      "price_source": "bet365",
+      "profit": -259.53999999999996,
+      "roi": -0.11976926626672818,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2169,
+      "family": "overall_elo",
+      "horizon": "round",
+      "mean_price": 3.44840479483633,
+      "price_source": "ex_post_maximum",
+      "profit": -154.12,
+      "roi": -0.07105578607653297,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2163,
+      "family": "rank_warmstart",
+      "horizon": "round",
+      "mean_price": 3.525533980582524,
+      "price_source": "pinnacle",
+      "profit": -202.28999999999996,
+      "roi": -0.09352288488210816,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2161,
+      "family": "rank_warmstart",
+      "horizon": "round",
+      "mean_price": 3.2367329939842664,
+      "price_source": "bet365",
+      "profit": -275.13,
+      "roi": -0.1273160573808422,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2163,
+      "family": "rank_warmstart",
+      "horizon": "round",
+      "mean_price": 3.6177531206657414,
+      "price_source": "ex_post_maximum",
+      "profit": -167.46,
+      "roi": -0.07742024965325936,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2167,
+      "family": "surface_elo",
+      "horizon": "round",
+      "mean_price": 3.5314443931702817,
+      "price_source": "pinnacle",
+      "profit": -220.83999999999997,
+      "roi": -0.10191047531149053,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2165,
+      "family": "surface_elo",
+      "horizon": "round",
+      "mean_price": 3.2433810623556583,
+      "price_source": "bet365",
+      "profit": -292.63,
+      "roi": -0.13516397228637414,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2167,
+      "family": "surface_elo",
+      "horizon": "round",
+      "mean_price": 3.6234287032764185,
+      "price_source": "ex_post_maximum",
+      "profit": -185.93,
+      "roi": -0.08580064605445316,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    }
+  ],
+  "same_selections_across_price_sources": true,
+  "selection_rule": "positive model expected value using the Pinnacle closing price",
+  "tour": "atp",
+  "warning": "MaxW/MaxL is an ex-post best quoted price, not proof that a bet was executable."
+}

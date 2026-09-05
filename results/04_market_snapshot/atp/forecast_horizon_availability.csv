@@ -1,0 +1,346 @@
+market_match_key,horizon_hours,available,tolerance_minutes,snapshot_ts,contemporaneous_commence_time,lead_minutes,consensus_prob_a
+tennis_atp_us_open|agustin tirante|t|mannarino|a,24.0,False,90.0,,,,
+tennis_atp_us_open|alcaraz|c|faria|j,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.9085135
+tennis_atp_us_open|alcaraz|c|safiullin|r,24.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-31 16:40:00+00:00,1470.5762457833334,0.821365
+tennis_atp_us_open|alcaraz|c|yibing|w,24.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-04 15:00:00+00:00,1475.0910232833335,0.9360415
+tennis_atp_us_open|altmaier|d|svajda|z,24.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-09-01 17:50:00+00:00,1480.86291235,0.416695
+tennis_atp_us_open|andres burruchaga|r|khachanov|k,24.0,True,90.0,2026-08-30 19:03:02.760954+00:00,2026-08-31 19:40:00+00:00,1476.9539841,0.21236
+tennis_atp_us_open|arnaldi|m|duckworth|j,24.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-31 17:00:00+00:00,1490.5762457833334,0.608727
+tennis_atp_us_open|atmane|t|munar|j,24.0,False,90.0,,,,
+tennis_atp_us_open|auger aliassime|f|hijikata|r,24.0,True,90.0,2026-08-30 20:04:04.815483+00:00,2026-08-31 21:00:00+00:00,1495.9197419500001,0.8952955
+tennis_atp_us_open|auger aliassime|f|khachanov|k,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.7170145
+tennis_atp_us_open|baez|s|nakashima|b,24.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-31 16:10:00+00:00,1440.5762457833334,0.145533
+tennis_atp_us_open|basavareddy|n|schoolkate|t,24.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-09-01 15:00:00+00:00,1493.1223147833334,0.7380965
+tennis_atp_us_open|bellucci|m|fritz|t,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.101804
+tennis_atp_us_open|bellucci|m|piros|z,24.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-09-01 15:00:00+00:00,1493.1223147833334,0.668938
+tennis_atp_us_open|bergs|z|de jong|j,24.0,False,90.0,,,,
+tennis_atp_us_open|bergs|z|taberner|c,24.0,False,90.0,,,,
+tennis_atp_us_open|bergs|z|van de zandschulp|b,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.336746
+tennis_atp_us_open|berrettini|m|navone|m,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.631016
+tennis_atp_us_open|berrettini|m|wawrinka|s,24.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-31 17:20:00+00:00,1452.6594888166667,0.804381
+tennis_atp_us_open|blanch|d|fritz|t,24.0,True,90.0,2026-08-31 16:10:22.122865+00:00,2026-09-01 16:40:00+00:00,1469.6312855833335,0.03037
+tennis_atp_us_open|blockx|a|cobolli|f,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.491964
+tennis_atp_us_open|blockx|a|tomas barrios vera|m,24.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-31 17:50:00+00:00,1482.6594888166667,0.822761
+tennis_atp_us_open|blockx|a|trungelliti|m,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.8256669999999999
+tennis_atp_us_open|bonzi|b|buse|i,24.0,False,90.0,,,,
+tennis_atp_us_open|bonzi|b|khachanov|k,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.3483
+tennis_atp_us_open|bonzi|b|molcan|a,24.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-09-01 17:50:00+00:00,1480.86291235,0.675106
+tennis_atp_us_open|borges|n|tien|l,24.0,True,90.0,2026-08-30 20:04:04.815483+00:00,2026-08-31 20:30:00+00:00,1465.9197419500001,0.339743
+tennis_atp_us_open|brooksby|j|faria|j,24.0,False,90.0,,,,
+tennis_atp_us_open|bublik|a|mannarino|a,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.7677735
+tennis_atp_us_open|bublik|a|paul|t,24.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-04 15:00:00+00:00,1475.0910232833335,0.376296
+tennis_atp_us_open|bublik|a|wolf|j,24.0,True,90.0,2026-08-30 00:04:20.032267+00:00,2026-08-31 00:10:00+00:00,1445.6661288833334,0.694811
+tennis_atp_us_open|buse|i|giron|m,24.0,True,90.0,2026-08-31 20:14:30.800190+00:00,2026-09-01 20:30:00+00:00,1455.4866635,0.574047
+tennis_atp_us_open|carreno busta|p|lehecka|j,24.0,True,90.0,2026-08-29 14:05:28.393431+00:00,2026-08-30 15:00:00+00:00,1494.52677615,0.202937
+tennis_atp_us_open|cerundolo|f|fritz|t,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.135719
+tennis_atp_us_open|cerundolo|f|lennard struff|j,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.613422
+tennis_atp_us_open|cerundolo|f|misolic|f,24.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-09-01 15:00:00+00:00,1493.1223147833334,0.931319
+tennis_atp_us_open|choinski|j|van de zandschulp|b,24.0,True,90.0,2026-08-31 18:11:28.941460+00:00,2026-09-01 19:00:00+00:00,1488.5176423333332,0.226555
+tennis_atp_us_open|cilic|m|rublev|a,24.0,True,90.0,2026-08-30 14:05:30.935065+00:00,2026-08-31 15:00:00+00:00,1494.4844155833334,0.256195
+tennis_atp_us_open|cina|f|michelsen|a,24.0,True,90.0,2026-08-29 20:06:18.081646+00:00,2026-08-30 21:00:00+00:00,1493.6986392333333,0.218759
+tennis_atp_us_open|cobolli|f|comesana|f,24.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-09-01 15:00:00+00:00,1493.1223147833334,0.8034515
+tennis_atp_us_open|cobolli|f|schoolkate|t,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.8369420000000001
+tennis_atp_us_open|collignon|r|gorzny|s,24.0,True,90.0,2026-08-29 18:01:20.615488+00:00,2026-08-30 19:00:00+00:00,1498.6564085333334,0.892929
+tennis_atp_us_open|damm jr|m|tiafoe|f,24.0,True,90.0,2026-08-31 00:03:14.260943+00:00,2026-09-01 00:10:00+00:00,1446.7623176166667,0.218789
+tennis_atp_us_open|daniel vallejo|a|monfils|g,24.0,True,90.0,2026-08-31 22:16:38.908995+00:00,2026-09-01 23:00:00+00:00,1483.35151675,0.549504
+tennis_atp_us_open|darderi|l|svrcina|d,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.5877355
+tennis_atp_us_open|darderi|l|sweeny|d,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.772965
+tennis_atp_us_open|darderi|l|wendelken|h,24.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-31 17:20:00+00:00,1452.6594888166667,0.740214
+tennis_atp_us_open|de jong|j|passaro|f,24.0,True,90.0,2026-08-31 16:10:22.122865+00:00,2026-09-01 16:40:00+00:00,1469.6312855833335,0.555168
+tennis_atp_us_open|de minaur|a|guerrieri|a,24.0,True,90.0,2026-08-31 20:14:30.800190+00:00,2026-09-01 21:00:00+00:00,1485.4866635,0.961897
+tennis_atp_us_open|de minaur|a|van de zandschulp|b,24.0,False,90.0,,,,
+tennis_atp_us_open|diaz acosta|f|halys|q,24.0,True,90.0,2026-08-30 18:06:25.044109+00:00,2026-08-31 19:00:00+00:00,1493.5825981833334,0.238535
+tennis_atp_us_open|dimitrov|g|popyrin|a,24.0,True,90.0,2026-08-30 19:03:02.760954+00:00,2026-08-31 19:10:00+00:00,1446.9539841,0.64136
+tennis_atp_us_open|djokovic|n|navone|m,24.0,True,90.0,2026-08-29 22:05:10.984978+00:00,2026-08-30 23:00:00+00:00,1494.8169170333335,0.821964
+tennis_atp_us_open|duckworth|j|yibing|w,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.415842
+tennis_atp_us_open|dzumhur|d|hurkacz|h,24.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-31 16:10:00+00:00,1440.5762457833334,0.079463
+tennis_atp_us_open|fearnley|j|landaluce|m,24.0,True,90.0,2026-08-29 18:01:20.615488+00:00,2026-08-30 19:00:00+00:00,1498.6564085333334,0.523111
+tennis_atp_us_open|fearnley|j|martin etcheverry|t,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.444832
+tennis_atp_us_open|fery|a|musetti|l,24.0,False,90.0,,,,
+tennis_atp_us_open|fils|a|tsitsipas|s,24.0,True,90.0,2026-08-30 14:05:30.935065+00:00,2026-08-31 15:00:00+00:00,1494.4844155833334,0.785036
+tennis_atp_us_open|fucsovics|m|merida aguilar|d,24.0,True,90.0,2026-08-29 14:05:28.393431+00:00,2026-08-30 15:00:00+00:00,1494.52677615,0.184987
+tennis_atp_us_open|gaston|h|medvedev|d,24.0,False,90.0,,,,
+tennis_atp_us_open|gea|a|manuel cerundolo|j,24.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-09-01 17:20:00+00:00,1450.86291235,0.517849
+tennis_atp_us_open|gea|a|svajda|z,24.0,False,90.0,,,,
+tennis_atp_us_open|gea|a|zheng|m,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.425301
+tennis_atp_us_open|gorzny|s|medvedev|d,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.042415499999999995
+tennis_atp_us_open|griekspoor|t|shelton|b,24.0,True,90.0,2026-08-30 22:03:13.016479+00:00,2026-08-31 23:00:00+00:00,1496.7830586833334,0.134433
+tennis_atp_us_open|halys|q|zverev|a,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.1573615
+tennis_atp_us_open|hanfmann|y|tabilo|a,24.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-31 17:50:00+00:00,1482.6594888166667,0.425953
+tennis_atp_us_open|harris|l|kennedy|j,24.0,False,90.0,,,,
+tennis_atp_us_open|harris|l|tsitsipas|s,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.314683
+tennis_atp_us_open|hurkacz|h|shelton|b,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.3177185
+tennis_atp_us_open|jodar|r|kokkinakis|t,24.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-09-01 17:20:00+00:00,1450.86291235,0.895342
+tennis_atp_us_open|jodar|r|yunchaokete|b,24.0,False,90.0,,,,
+tennis_atp_us_open|kecmanovic|m|shapovalov|d,24.0,False,90.0,,,,
+tennis_atp_us_open|kopriva|v|martin etcheverry|t,24.0,True,90.0,2026-08-29 18:01:20.615488+00:00,2026-08-30 19:00:00+00:00,1498.6564085333334,0.362023
+tennis_atp_us_open|kovacevic|a|vacherot|v,24.0,True,90.0,2026-08-30 14:05:30.935065+00:00,2026-08-31 15:00:00+00:00,1494.4844155833334,0.488396
+tennis_atp_us_open|lam coleman wong|c|paul|t,24.0,False,90.0,,,,
+tennis_atp_us_open|lehecka|j|samuel|t,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.7209570000000001
+tennis_atp_us_open|lehecka|j|tsitsipas|s,24.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-04 15:00:00+00:00,1475.0910232833335,0.657177
+tennis_atp_us_open|lennard struff|j|ugo carabelli|c,24.0,False,90.0,,,,
+tennis_atp_us_open|machac|t|samuel|t,24.0,False,90.0,,,,
+tennis_atp_us_open|majchrzak|k|medjedovic|h,24.0,True,90.0,2026-08-29 14:05:28.393431+00:00,2026-08-30 15:00:00+00:00,1494.52677615,0.53308
+tennis_atp_us_open|majchrzak|k|vacherot|v,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.453886
+tennis_atp_us_open|manuel cerundolo|j|ruud|c,24.0,False,90.0,,,,
+tennis_atp_us_open|marozsan|f|zheng|m,24.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-09-01 17:50:00+00:00,1480.86291235,0.436682
+tennis_atp_us_open|martin etcheverry|t|navone|m,24.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-04 15:00:00+00:00,1475.0910232833335,0.479394
+tennis_atp_us_open|medvedev|d|rinderknech|a,24.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-04 15:00:00+00:00,1475.0910232833335,0.7221
+tennis_atp_us_open|mensik|j|mochizuki|s,24.0,True,90.0,2026-08-30 18:06:25.044109+00:00,2026-08-31 19:00:00+00:00,1493.5825981833334,0.895342
+tennis_atp_us_open|mensik|j|rodionov|j,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.885263
+tennis_atp_us_open|mensik|j|tien|l,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.443606
+tennis_atp_us_open|merida aguilar|d|michelsen|a,24.0,True,90.0,2026-09-03 20:01:58.489072+00:00,2026-09-04 20:30:00+00:00,1468.0251821333334,0.391095
+tennis_atp_us_open|merida aguilar|d|rublev|a,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.3992525
+tennis_atp_us_open|michelsen|a|nakashima|b,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.337351
+tennis_atp_us_open|monfils|g|tien|l,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.1896865
+tennis_atp_us_open|moutet|c|sweeny|d,24.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-09-01 15:00:00+00:00,1493.1223147833334,0.7435719999999999
+tennis_atp_us_open|mpetshi perricard|g|rodionov|j,24.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-31 16:10:00+00:00,1440.5762457833334,0.533684
+tennis_atp_us_open|munar|j|rinderknech|a,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.3836755
+tennis_atp_us_open|musetti|l|sweeny|d,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.951681
+tennis_atp_us_open|norrie|c|van assche|l,24.0,False,90.0,,,,
+tennis_atp_us_open|paul|t|prizmic|d,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.8167629999999999
+tennis_atp_us_open|popyrin|a|tabilo|a,24.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-03 15:00:00+00:00,1469.8322098666665,0.425627
+tennis_atp_us_open|prizmic|d|shevchenko|a,24.0,True,90.0,2026-08-29 14:05:28.393431+00:00,2026-08-30 15:00:00+00:00,1494.52677615,0.7307710000000001
+tennis_atp_us_open|rinderknech|a|shimabukuro|s,24.0,True,90.0,2026-08-29 14:05:28.393431+00:00,2026-08-30 15:00:00+00:00,1494.52677615,0.738927
+tennis_atp_us_open|royer|v|svrcina|d,24.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-31 17:20:00+00:00,1452.6594888166667,0.513927
+tennis_atp_us_open|rublev|a|virtanen|o,24.0,False,90.0,,,,
+tennis_atp_us_open|sakamoto|r|tiafoe|f,24.0,True,90.0,2026-09-01 22:32:44.466672+00:00,2026-09-02 23:00:00+00:00,1467.2588888,0.21236
+tennis_atp_us_open|sakamoto|r|vukic|a,24.0,False,90.0,,,,
+tennis_atp_us_open|shang|j|trungelliti|m,24.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-31 17:20:00+00:00,1452.6594888166667,0.663123
+tennis_atp_us_open|shapovalov|d|shelton|b,24.0,True,90.0,2026-09-04 00:01:42.551492+00:00,2026-09-05 00:10:00+00:00,1448.2908084666667,0.222266
+tennis_atp_us_open|shapovalov|d|van assche|l,24.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-02 15:00:00+00:00,1476.3329565666668,0.55784
+tennis_atp_us_open|sonego|l|zverev|a,24.0,True,90.0,2026-08-31 23:18:13.284481+00:00,2026-09-02 00:10:00+00:00,1491.7785919833334,0.064568
+tennis_atp_us_open|tabilo|a|zverev|a,24.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-05 15:00:00+00:00,1498.43741945,0.140323
+tennis_atp_us_open|tiafoe|f|vacherot|v,24.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-04 15:00:00+00:00,1475.0910232833335,0.6443995
+tennis_atp_us_open|walton|a|yibing|w,24.0,True,90.0,2026-08-29 14:05:28.393431+00:00,2026-08-30 15:00:00+00:00,1494.52677615,0.5
+tennis_atp_us_open|yunchaokete|b|zheng|m,24.0,False,90.0,,,,
+tennis_atp_us_open|agustin tirante|t|mannarino|a,6.0,False,90.0,,,,
+tennis_atp_us_open|alcaraz|c|faria|j,6.0,True,90.0,2026-09-02 17:38:58.043168+00:00,2026-09-03 00:10:00+00:00,391.0326138666667,0.9153285
+tennis_atp_us_open|alcaraz|c|safiullin|r,6.0,False,90.0,,,,
+tennis_atp_us_open|alcaraz|c|yibing|w,6.0,False,90.0,,,,
+tennis_atp_us_open|altmaier|d|svajda|z,6.0,True,90.0,2026-09-01 11:01:53.891977+00:00,2026-09-01 17:50:00+00:00,408.10180038333334,0.416184
+tennis_atp_us_open|andres burruchaga|r|khachanov|k,6.0,False,90.0,,,,
+tennis_atp_us_open|arnaldi|m|duckworth|j,6.0,False,90.0,,,,
+tennis_atp_us_open|atmane|t|munar|j,6.0,False,90.0,,,,
+tennis_atp_us_open|auger aliassime|f|hijikata|r,6.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-08-31 21:00:00+00:00,413.12231478333337,0.9042455
+tennis_atp_us_open|auger aliassime|f|khachanov|k,6.0,False,90.0,,,,
+tennis_atp_us_open|baez|s|nakashima|b,6.0,True,90.0,2026-08-31 11:06:06.555405+00:00,2026-08-31 17:35:00+00:00,388.89074325,0.1347055
+tennis_atp_us_open|basavareddy|n|schoolkate|t,6.0,False,90.0,,,,
+tennis_atp_us_open|bellucci|m|fritz|t,6.0,False,90.0,,,,
+tennis_atp_us_open|bellucci|m|piros|z,6.0,False,90.0,,,,
+tennis_atp_us_open|bergs|z|de jong|j,6.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 20:00:00+00:00,390.79220133333337,0.692768
+tennis_atp_us_open|bergs|z|taberner|c,6.0,False,90.0,,,,
+tennis_atp_us_open|bergs|z|van de zandschulp|b,6.0,False,90.0,,,,
+tennis_atp_us_open|berrettini|m|navone|m,6.0,True,90.0,2026-09-02 11:22:44.806824+00:00,2026-09-02 18:20:00+00:00,417.2532196,0.631395
+tennis_atp_us_open|berrettini|m|wawrinka|s,6.0,True,90.0,2026-08-31 11:06:06.555405+00:00,2026-08-31 18:00:00+00:00,413.89074325,0.7939860000000001
+tennis_atp_us_open|blanch|d|fritz|t,6.0,False,90.0,,,,
+tennis_atp_us_open|blockx|a|cobolli|f,6.0,False,90.0,,,,
+tennis_atp_us_open|blockx|a|tomas barrios vera|m,6.0,True,90.0,2026-08-31 12:05:53.413217+00:00,2026-08-31 18:10:00+00:00,364.10977971666665,0.819823
+tennis_atp_us_open|blockx|a|trungelliti|m,6.0,False,90.0,,,,
+tennis_atp_us_open|bonzi|b|buse|i,6.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 20:00:00+00:00,390.79220133333337,0.4398305
+tennis_atp_us_open|bonzi|b|khachanov|k,6.0,False,90.0,,,,
+tennis_atp_us_open|bonzi|b|molcan|a,6.0,True,90.0,2026-09-01 11:01:53.891977+00:00,2026-09-01 17:50:00+00:00,408.10180038333334,0.649796
+tennis_atp_us_open|borges|n|tien|l,6.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-08-31 20:30:00+00:00,383.12231478333337,0.349016
+tennis_atp_us_open|brooksby|j|faria|j,6.0,False,90.0,,,,
+tennis_atp_us_open|bublik|a|mannarino|a,6.0,True,90.0,2026-09-02 12:23:30.304559+00:00,2026-09-02 19:20:00+00:00,416.4949240166667,0.775575
+tennis_atp_us_open|bublik|a|paul|t,6.0,False,90.0,,,,
+tennis_atp_us_open|bublik|a|wolf|j,6.0,True,90.0,2026-08-30 18:06:25.044109+00:00,2026-08-31 00:10:00+00:00,363.58259818333335,0.689209
+tennis_atp_us_open|buse|i|giron|m,6.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-01 20:30:00+00:00,366.33295656666667,0.594344
+tennis_atp_us_open|carreno busta|p|lehecka|j,6.0,False,90.0,,,,
+tennis_atp_us_open|cerundolo|f|fritz|t,6.0,False,90.0,,,,
+tennis_atp_us_open|cerundolo|f|lennard struff|j,6.0,False,90.0,,,,
+tennis_atp_us_open|cerundolo|f|misolic|f,6.0,False,90.0,,,,
+tennis_atp_us_open|choinski|j|van de zandschulp|b,6.0,True,90.0,2026-09-01 12:16:14.069261+00:00,2026-09-01 19:00:00+00:00,403.7655123166667,0.22968699999999997
+tennis_atp_us_open|cilic|m|rublev|a,6.0,False,90.0,,,,
+tennis_atp_us_open|cina|f|michelsen|a,6.0,True,90.0,2026-08-30 14:05:30.935065+00:00,2026-08-30 21:00:00+00:00,414.4844155833333,0.195936
+tennis_atp_us_open|cobolli|f|comesana|f,6.0,False,90.0,,,,
+tennis_atp_us_open|cobolli|f|schoolkate|t,6.0,True,90.0,2026-09-03 11:04:58.022288+00:00,2026-09-03 17:20:00+00:00,375.03296186666665,0.8176490000000001
+tennis_atp_us_open|collignon|r|gorzny|s,6.0,True,90.0,2026-08-30 12:05:25.883505+00:00,2026-08-30 19:00:00+00:00,414.56860824999995,0.878156
+tennis_atp_us_open|damm jr|m|tiafoe|f,6.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-09-01 00:10:00+00:00,420.86291235000004,0.217648
+tennis_atp_us_open|daniel vallejo|a|monfils|g,6.0,True,90.0,2026-09-01 16:19:47.562551+00:00,2026-09-01 23:00:00+00:00,400.20729081666667,0.550363
+tennis_atp_us_open|darderi|l|svrcina|d,6.0,False,90.0,,,,
+tennis_atp_us_open|darderi|l|sweeny|d,6.0,False,90.0,,,,
+tennis_atp_us_open|darderi|l|wendelken|h,6.0,True,90.0,2026-08-31 11:06:06.555405+00:00,2026-08-31 17:20:00+00:00,373.89074325,0.737261
+tennis_atp_us_open|de jong|j|passaro|f,6.0,False,90.0,,,,
+tennis_atp_us_open|de minaur|a|guerrieri|a,6.0,True,90.0,2026-09-01 14:23:40.022606+00:00,2026-09-01 21:00:00+00:00,396.33295656666667,0.959759
+tennis_atp_us_open|de minaur|a|van de zandschulp|b,6.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-03 20:30:00+00:00,365.0910232833333,0.7481925
+tennis_atp_us_open|diaz acosta|f|halys|q,6.0,True,90.0,2026-08-31 12:05:53.413217+00:00,2026-08-31 19:35:00+00:00,449.10977971666665,0.242608
+tennis_atp_us_open|dimitrov|g|popyrin|a,6.0,True,90.0,2026-08-31 14:06:52.661113+00:00,2026-08-31 20:40:00+00:00,393.12231478333337,0.651984
+tennis_atp_us_open|djokovic|n|navone|m,6.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-30 23:00:00+00:00,410.5762457833333,0.831728
+tennis_atp_us_open|duckworth|j|yibing|w,6.0,True,90.0,2026-09-02 11:22:44.806824+00:00,2026-09-02 18:10:00+00:00,407.2532196,0.41181650000000003
+tennis_atp_us_open|dzumhur|d|hurkacz|h,6.0,True,90.0,2026-08-31 11:06:06.555405+00:00,2026-08-31 17:50:00+00:00,403.89074325,0.095334
+tennis_atp_us_open|fearnley|j|landaluce|m,6.0,True,90.0,2026-08-30 12:05:25.883505+00:00,2026-08-30 19:00:00+00:00,414.56860824999995,0.49768
+tennis_atp_us_open|fearnley|j|martin etcheverry|t,6.0,False,90.0,,,,
+tennis_atp_us_open|fery|a|musetti|l,6.0,False,90.0,,,,
+tennis_atp_us_open|fils|a|tsitsipas|s,6.0,False,90.0,,,,
+tennis_atp_us_open|fucsovics|m|merida aguilar|d,6.0,False,90.0,,,,
+tennis_atp_us_open|gaston|h|medvedev|d,6.0,False,90.0,,,,
+tennis_atp_us_open|gea|a|manuel cerundolo|j,6.0,True,90.0,2026-09-01 11:01:53.891977+00:00,2026-09-01 17:20:00+00:00,378.10180038333334,0.528543
+tennis_atp_us_open|gea|a|svajda|z,6.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 20:00:00+00:00,390.79220133333337,0.47022600000000003
+tennis_atp_us_open|gea|a|zheng|m,6.0,False,90.0,,,,
+tennis_atp_us_open|gorzny|s|medvedev|d,6.0,False,90.0,,,,
+tennis_atp_us_open|griekspoor|t|shelton|b,6.0,True,90.0,2026-08-31 16:10:22.122865+00:00,2026-08-31 23:00:00+00:00,409.6312855833333,0.128466
+tennis_atp_us_open|halys|q|zverev|a,6.0,True,90.0,2026-09-03 18:05:07.891034+00:00,2026-09-04 00:10:00+00:00,364.86848276666666,0.14908349999999998
+tennis_atp_us_open|hanfmann|y|tabilo|a,6.0,True,90.0,2026-08-31 12:05:53.413217+00:00,2026-08-31 18:25:00+00:00,379.10977971666665,0.447011
+tennis_atp_us_open|harris|l|kennedy|j,6.0,False,90.0,,,,
+tennis_atp_us_open|harris|l|tsitsipas|s,6.0,True,90.0,2026-09-02 13:25:59.455341+00:00,2026-09-02 20:30:00+00:00,424.00907765,0.3110195
+tennis_atp_us_open|hurkacz|h|shelton|b,6.0,False,90.0,,,,
+tennis_atp_us_open|jodar|r|kokkinakis|t,6.0,True,90.0,2026-09-01 11:01:53.891977+00:00,2026-09-01 17:20:00+00:00,378.10180038333334,0.907864
+tennis_atp_us_open|jodar|r|yunchaokete|b,6.0,False,90.0,,,,
+tennis_atp_us_open|kecmanovic|m|shapovalov|d,6.0,False,90.0,,,,
+tennis_atp_us_open|kopriva|v|martin etcheverry|t,6.0,True,90.0,2026-08-30 12:05:25.883505+00:00,2026-08-30 19:00:00+00:00,414.56860824999995,0.37823
+tennis_atp_us_open|kovacevic|a|vacherot|v,6.0,False,90.0,,,,
+tennis_atp_us_open|lam coleman wong|c|paul|t,6.0,False,90.0,,,,
+tennis_atp_us_open|lehecka|j|samuel|t,6.0,True,90.0,2026-09-02 12:23:30.304559+00:00,2026-09-02 18:50:00+00:00,386.4949240166667,0.726429
+tennis_atp_us_open|lehecka|j|tsitsipas|s,6.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-04 21:00:00+00:00,418.43741945,0.632529
+tennis_atp_us_open|lennard struff|j|ugo carabelli|c,6.0,False,90.0,,,,
+tennis_atp_us_open|machac|t|samuel|t,6.0,False,90.0,,,,
+tennis_atp_us_open|majchrzak|k|medjedovic|h,6.0,False,90.0,,,,
+tennis_atp_us_open|majchrzak|k|vacherot|v,6.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-02 20:50:00+00:00,379.8322098666667,0.452495
+tennis_atp_us_open|manuel cerundolo|j|ruud|c,6.0,False,90.0,,,,
+tennis_atp_us_open|marozsan|f|zheng|m,6.0,True,90.0,2026-09-01 11:01:53.891977+00:00,2026-09-01 17:50:00+00:00,408.10180038333334,0.4087065
+tennis_atp_us_open|martin etcheverry|t|navone|m,6.0,True,90.0,2026-09-04 13:01:29.735577+00:00,2026-09-04 20:00:00+00:00,418.50440705,0.513927
+tennis_atp_us_open|medvedev|d|rinderknech|a,6.0,False,90.0,,,,
+tennis_atp_us_open|mensik|j|mochizuki|s,6.0,True,90.0,2026-08-31 12:05:53.413217+00:00,2026-08-31 19:00:00+00:00,414.10977971666665,0.895342
+tennis_atp_us_open|mensik|j|rodionov|j,6.0,True,90.0,2026-09-03 11:04:58.022288+00:00,2026-09-03 17:20:00+00:00,375.03296186666665,0.8835095
+tennis_atp_us_open|mensik|j|tien|l,6.0,False,90.0,,,,
+tennis_atp_us_open|merida aguilar|d|michelsen|a,6.0,True,90.0,2026-09-04 14:01:33.754833+00:00,2026-09-04 20:30:00+00:00,388.43741945,0.364369
+tennis_atp_us_open|merida aguilar|d|rublev|a,6.0,False,90.0,,,,
+tennis_atp_us_open|michelsen|a|nakashima|b,6.0,False,90.0,,,,
+tennis_atp_us_open|monfils|g|tien|l,6.0,True,90.0,2026-09-03 16:02:03.427312+00:00,2026-09-03 23:00:00+00:00,417.94287813333335,0.174828
+tennis_atp_us_open|moutet|c|sweeny|d,6.0,False,90.0,,,,
+tennis_atp_us_open|mpetshi perricard|g|rodionov|j,6.0,False,90.0,,,,
+tennis_atp_us_open|munar|j|rinderknech|a,6.0,False,90.0,,,,
+tennis_atp_us_open|musetti|l|sweeny|d,6.0,False,90.0,,,,
+tennis_atp_us_open|norrie|c|van assche|l,6.0,False,90.0,,,,
+tennis_atp_us_open|paul|t|prizmic|d,6.0,True,90.0,2026-09-02 12:23:30.304559+00:00,2026-09-02 18:40:00+00:00,376.4949240166667,0.829582
+tennis_atp_us_open|popyrin|a|tabilo|a,6.0,True,90.0,2026-09-03 11:04:58.022288+00:00,2026-09-03 17:20:00+00:00,375.03296186666665,0.391516
+tennis_atp_us_open|prizmic|d|shevchenko|a,6.0,False,90.0,,,,
+tennis_atp_us_open|rinderknech|a|shimabukuro|s,6.0,False,90.0,,,,
+tennis_atp_us_open|royer|v|svrcina|d,6.0,True,90.0,2026-08-31 11:06:06.555405+00:00,2026-08-31 17:20:00+00:00,373.89074325,0.5
+tennis_atp_us_open|rublev|a|virtanen|o,6.0,False,90.0,,,,
+tennis_atp_us_open|sakamoto|r|tiafoe|f,6.0,False,90.0,,,,
+tennis_atp_us_open|sakamoto|r|vukic|a,6.0,False,90.0,,,,
+tennis_atp_us_open|shang|j|trungelliti|m,6.0,True,90.0,2026-08-31 11:06:06.555405+00:00,2026-08-31 17:55:00+00:00,408.89074325,0.660257
+tennis_atp_us_open|shapovalov|d|shelton|b,6.0,False,90.0,,,,
+tennis_atp_us_open|shapovalov|d|van assche|l,6.0,True,90.0,2026-09-02 11:22:44.806824+00:00,2026-09-02 18:00:00+00:00,397.2532196,0.579346
+tennis_atp_us_open|sonego|l|zverev|a,6.0,True,90.0,2026-09-01 17:18:55.498749+00:00,2026-09-02 00:10:00+00:00,411.07502085000004,0.0681235
+tennis_atp_us_open|tabilo|a|zverev|a,6.0,False,90.0,,,,
+tennis_atp_us_open|tiafoe|f|vacherot|v,6.0,True,90.0,2026-09-04 16:02:07.330731+00:00,2026-09-04 23:00:00+00:00,417.87782115000005,0.6275515
+tennis_atp_us_open|walton|a|yibing|w,6.0,False,90.0,,,,
+tennis_atp_us_open|yunchaokete|b|zheng|m,6.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 20:00:00+00:00,390.79220133333337,0.3686685
+tennis_atp_us_open|agustin tirante|t|mannarino|a,1.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-30 17:20:00+00:00,70.57624578333333,0.719721
+tennis_atp_us_open|alcaraz|c|faria|j,1.0,True,90.0,2026-09-02 23:18:40.751929+00:00,2026-09-03 00:25:00+00:00,66.32080118333333,0.9184125000000001
+tennis_atp_us_open|alcaraz|c|safiullin|r,1.0,False,90.0,,,,
+tennis_atp_us_open|alcaraz|c|yibing|w,1.0,True,90.0,2026-09-04 15:01:56.667687+00:00,2026-09-04 17:00:00+00:00,118.05553855,0.943283
+tennis_atp_us_open|altmaier|d|svajda|z,1.0,True,90.0,2026-09-02 15:29:39.056463+00:00,2026-09-02 16:30:00+00:00,60.34905895,0.411677
+tennis_atp_us_open|andres burruchaga|r|khachanov|k,1.0,True,90.0,2026-08-31 20:14:30.800190+00:00,2026-08-31 21:30:00+00:00,75.4866635,0.21236
+tennis_atp_us_open|arnaldi|m|duckworth|j,1.0,False,90.0,,,,
+tennis_atp_us_open|atmane|t|munar|j,1.0,True,90.0,2026-08-30 15:06:18.319936+00:00,2026-08-30 16:40:00+00:00,93.69466773333333,0.638689
+tennis_atp_us_open|auger aliassime|f|hijikata|r,1.0,True,90.0,2026-08-31 19:13:27.834205+00:00,2026-08-31 21:00:00+00:00,106.53609658333333,0.8962144999999999
+tennis_atp_us_open|auger aliassime|f|khachanov|k,1.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 15:00:00+00:00,90.79220133333334,0.7300065
+tennis_atp_us_open|baez|s|nakashima|b,1.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-08-31 18:10:00+00:00,60.86291235,0.1248965
+tennis_atp_us_open|basavareddy|n|schoolkate|t,1.0,True,90.0,2026-09-01 16:19:47.562551+00:00,2026-09-01 17:30:00+00:00,70.20729081666667,0.742318
+tennis_atp_us_open|bellucci|m|fritz|t,1.0,False,90.0,,,,
+tennis_atp_us_open|bellucci|m|piros|z,1.0,True,90.0,2026-09-01 16:19:47.562551+00:00,2026-09-01 17:30:00+00:00,70.20729081666667,0.6687755
+tennis_atp_us_open|bergs|z|de jong|j,1.0,True,90.0,2026-09-03 19:01:55.242438+00:00,2026-09-03 20:35:00+00:00,93.0792927,0.692768
+tennis_atp_us_open|bergs|z|taberner|c,1.0,True,90.0,2026-09-01 16:19:47.562551+00:00,2026-09-01 17:30:00+00:00,70.20729081666667,0.951657
+tennis_atp_us_open|bergs|z|van de zandschulp|b,1.0,False,90.0,,,,
+tennis_atp_us_open|berrettini|m|navone|m,1.0,True,90.0,2026-09-02 17:38:58.043168+00:00,2026-09-02 19:25:00+00:00,106.03261386666667,0.631103
+tennis_atp_us_open|berrettini|m|wawrinka|s,1.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-08-31 18:25:00+00:00,75.86291235,0.7929965
+tennis_atp_us_open|blanch|d|fritz|t,1.0,True,90.0,2026-09-01 15:26:54.665633+00:00,2026-09-01 16:40:00+00:00,73.08890611666668,0.025357
+tennis_atp_us_open|blockx|a|cobolli|f,1.0,False,90.0,,,,
+tennis_atp_us_open|blockx|a|tomas barrios vera|m,1.0,True,90.0,2026-08-31 19:13:27.834205+00:00,2026-08-31 21:00:00+00:00,106.53609658333333,0.831325
+tennis_atp_us_open|blockx|a|trungelliti|m,1.0,True,90.0,2026-09-03 16:02:03.427312+00:00,2026-09-03 17:10:00+00:00,67.94287813333334,0.843025
+tennis_atp_us_open|bonzi|b|buse|i,1.0,True,90.0,2026-09-03 18:05:07.891034+00:00,2026-09-03 20:00:00+00:00,114.86848276666666,0.4771725
+tennis_atp_us_open|bonzi|b|khachanov|k,1.0,False,90.0,,,,
+tennis_atp_us_open|bonzi|b|molcan|a,1.0,True,90.0,2026-09-01 20:11:32.177410+00:00,2026-09-01 21:25:00+00:00,73.46370983333333,0.6593805
+tennis_atp_us_open|borges|n|tien|l,1.0,True,90.0,2026-08-31 21:13:36.365403+00:00,2026-08-31 22:25:00+00:00,71.39390995000001,0.342729
+tennis_atp_us_open|brooksby|j|faria|j,1.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-30 18:25:00+00:00,77.65948881666667,0.536057
+tennis_atp_us_open|bublik|a|mannarino|a,1.0,True,90.0,2026-09-02 21:23:28.457704+00:00,2026-09-02 22:45:00+00:00,81.52570493333333,0.7745709999999999
+tennis_atp_us_open|bublik|a|paul|t,1.0,True,90.0,2026-09-04 15:01:56.667687+00:00,2026-09-04 16:10:00+00:00,68.05553855,0.383566
+tennis_atp_us_open|bublik|a|wolf|j,1.0,True,90.0,2026-08-30 23:03:02.126613+00:00,2026-08-31 00:10:00+00:00,66.96455645,0.692768
+tennis_atp_us_open|buse|i|giron|m,1.0,True,90.0,2026-09-02 15:29:39.056463+00:00,2026-09-02 16:30:00+00:00,60.34905895,0.6088985
+tennis_atp_us_open|carreno busta|p|lehecka|j,1.0,True,90.0,2026-08-30 13:05:18.098969+00:00,2026-08-30 15:00:00+00:00,114.69835051666668,0.1971975
+tennis_atp_us_open|cerundolo|f|fritz|t,1.0,False,90.0,,,,
+tennis_atp_us_open|cerundolo|f|lennard struff|j,1.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 15:00:00+00:00,90.79220133333334,0.5881835
+tennis_atp_us_open|cerundolo|f|misolic|f,1.0,True,90.0,2026-09-01 13:24:20.374137+00:00,2026-09-01 15:00:00+00:00,95.66043105,0.9334705
+tennis_atp_us_open|choinski|j|van de zandschulp|b,1.0,True,90.0,2026-09-02 15:29:39.056463+00:00,2026-09-02 16:30:00+00:00,60.34905895,0.219115
+tennis_atp_us_open|cilic|m|rublev|a,1.0,False,90.0,,,,
+tennis_atp_us_open|cina|f|michelsen|a,1.0,True,90.0,2026-08-30 19:03:02.760954+00:00,2026-08-30 21:00:00+00:00,116.9539841,0.186914
+tennis_atp_us_open|cobolli|f|comesana|f,1.0,True,90.0,2026-09-01 13:24:20.374137+00:00,2026-09-01 15:00:00+00:00,95.66043105,0.811266
+tennis_atp_us_open|cobolli|f|schoolkate|t,1.0,True,90.0,2026-09-03 16:02:03.427312+00:00,2026-09-03 17:45:00+00:00,102.94287813333334,0.8052395
+tennis_atp_us_open|collignon|r|gorzny|s,1.0,True,90.0,2026-08-30 19:03:02.760954+00:00,2026-08-30 20:10:00+00:00,66.9539841,0.876169
+tennis_atp_us_open|damm jr|m|tiafoe|f,1.0,True,90.0,2026-08-31 22:16:38.908995+00:00,2026-09-01 00:10:00+00:00,113.35151675,0.217648
+tennis_atp_us_open|daniel vallejo|a|monfils|g,1.0,True,90.0,2026-09-01 21:25:13.217302+00:00,2026-09-01 23:00:00+00:00,94.77971163333333,0.560512
+tennis_atp_us_open|darderi|l|svrcina|d,1.0,True,90.0,2026-09-03 13:29:12.467920+00:00,2026-09-03 15:00:00+00:00,90.79220133333334,0.571546
+tennis_atp_us_open|darderi|l|sweeny|d,1.0,False,90.0,,,,
+tennis_atp_us_open|darderi|l|wendelken|h,1.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-08-31 18:35:00+00:00,85.86291235,0.742647
+tennis_atp_us_open|de jong|j|passaro|f,1.0,True,90.0,2026-09-01 19:18:45.984994+00:00,2026-09-01 20:25:00+00:00,66.23358343333334,0.563539
+tennis_atp_us_open|de minaur|a|guerrieri|a,1.0,True,90.0,2026-09-02 15:29:39.056463+00:00,2026-09-02 16:40:00+00:00,70.34905895,0.961897
+tennis_atp_us_open|de minaur|a|van de zandschulp|b,1.0,True,90.0,2026-09-03 19:01:55.242438+00:00,2026-09-03 20:30:00+00:00,88.0792927,0.7363015
+tennis_atp_us_open|diaz acosta|f|halys|q,1.0,True,90.0,2026-08-31 21:13:36.365403+00:00,2026-08-31 22:40:00+00:00,86.39390995000001,0.2570615
+tennis_atp_us_open|dimitrov|g|popyrin|a,1.0,True,90.0,2026-08-31 21:13:36.365403+00:00,2026-08-31 22:30:00+00:00,76.39390995000001,0.64465
+tennis_atp_us_open|djokovic|n|navone|m,1.0,True,90.0,2026-08-30 21:03:30.969988+00:00,2026-08-30 23:00:00+00:00,116.48383353333334,0.844821
+tennis_atp_us_open|duckworth|j|yibing|w,1.0,False,90.0,,,,
+tennis_atp_us_open|dzumhur|d|hurkacz|h,1.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-08-31 18:15:00+00:00,65.86291235,0.0817705
+tennis_atp_us_open|fearnley|j|landaluce|m,1.0,True,90.0,2026-08-30 21:03:30.969988+00:00,2026-08-30 22:15:00+00:00,71.48383353333334,0.476771
+tennis_atp_us_open|fearnley|j|martin etcheverry|t,1.0,True,90.0,2026-09-02 14:30:10.067408+00:00,2026-09-02 16:10:00+00:00,99.83220986666667,0.442554
+tennis_atp_us_open|fery|a|musetti|l,1.0,True,90.0,2026-09-01 16:19:47.562551+00:00,2026-09-01 17:40:00+00:00,80.20729081666667,0.2175025
+tennis_atp_us_open|fils|a|tsitsipas|s,1.0,False,90.0,,,,
+tennis_atp_us_open|fucsovics|m|merida aguilar|d,1.0,True,90.0,2026-08-30 13:05:18.098969+00:00,2026-08-30 15:00:00+00:00,114.69835051666668,0.183058
+tennis_atp_us_open|gaston|h|medvedev|d,1.0,True,90.0,2026-08-30 16:09:25.425253+00:00,2026-08-30 17:25:00+00:00,75.57624578333333,0.117201
+tennis_atp_us_open|gea|a|manuel cerundolo|j,1.0,True,90.0,2026-09-01 17:18:55.498749+00:00,2026-09-01 18:50:00+00:00,91.07502085,0.5512600000000001
+tennis_atp_us_open|gea|a|svajda|z,1.0,True,90.0,2026-09-03 19:01:55.242438+00:00,2026-09-03 20:35:00+00:00,93.0792927,0.460281
+tennis_atp_us_open|gea|a|zheng|m,1.0,False,90.0,,,,
+tennis_atp_us_open|gorzny|s|medvedev|d,1.0,True,90.0,2026-09-02 13:25:59.455341+00:00,2026-09-02 15:00:00+00:00,94.00907765000001,0.041745
+tennis_atp_us_open|griekspoor|t|shelton|b,1.0,True,90.0,2026-08-31 21:13:36.365403+00:00,2026-08-31 23:00:00+00:00,106.39390995000001,0.13256600000000002
+tennis_atp_us_open|halys|q|zverev|a,1.0,True,90.0,2026-09-03 23:01:55.406323+00:00,2026-09-04 00:10:00+00:00,68.07656128333333,0.14185
+tennis_atp_us_open|hanfmann|y|tabilo|a,1.0,True,90.0,2026-08-31 17:09:08.225259+00:00,2026-08-31 18:25:00+00:00,75.86291235,0.4387215
+tennis_atp_us_open|harris|l|kennedy|j,1.0,True,90.0,2026-08-30 15:06:18.319936+00:00,2026-08-30 16:40:00+00:00,93.69466773333333,0.853481
+tennis_atp_us_open|harris|l|tsitsipas|s,1.0,True,90.0,2026-09-02 19:18:06.738989+00:00,2026-09-02 20:40:00+00:00,81.88768351666666,0.310102
+tennis_atp_us_open|hurkacz|h|shelton|b,1.0,True,90.0,2026-09-02 15:29:39.056463+00:00,2026-09-02 16:40:00+00:00,70.34905895,0.3047805
+tennis_atp_us_open|jodar|r|kokkinakis|t,1.0,True,90.0,2026-09-01 15:26:54.665633+00:00,2026-09-01 17:20:00+00:00,113.08890611666668,0.901538
+tennis_atp_us_open|jodar|r|yunchaokete|b,1.0,True,90.0,2026-09-02 15:29:39.056463+00:00,2026-09-02 16:30:00+00:00,60.34905895,0.9212910000000001
+tennis_atp_us_open|kecmanovic|m|shapovalov|d,1.0,True,90.0,2026-08-30 18:06:25.044109+00:00,2026-08-30 19:25:00+00:00,78.58259818333333,0.443606
+tennis_atp_us_open|kopriva|v|martin etcheverry|t,1.0,True,90.0,2026-08-30 17:07:20.430671+00:00,2026-08-30 19:00:00+00:00,112.65948881666667,0.380602
+tennis_atp_us_open|kovacevic|a|vacherot|v,1.0,False,90.0,,,,
+tennis_atp_us_open|lam coleman wong|c|paul|t,1.0,True,90.0,2026-08-30 15:06:18.319936+00:00,2026-08-30 16:10:00+00:00,63.69466773333333,0.148119
+tennis_atp_us_open|lehecka|j|samuel|t,1.0,True,90.0,2026-09-02 19:18:06.738989+00:00,2026-09-02 20:25:00+00:00,66.88768351666667,0.7176009999999999
+tennis_atp_us_open|lehecka|j|tsitsipas|s,1.0,False,90.0,,,,
+tennis_atp_us_open|lennard struff|j|ugo carabelli|c,1.0,True,90.0,2026-09-01 17:18:55.498749+00:00,2026-09-01 18:40:00+00:00,81.07502085,0.6618569999999999
+tennis_atp_us_open|machac|t|samuel|t,1.0,True,90.0,2026-08-30 15:06:18.319936+00:00,2026-08-30 16:40:00+00:00,93.69466773333333,0.430071
+tennis_atp_us_open|majchrzak|k|medjedovic|h,1.0,True,90.0,2026-08-30 13:05:18.098969+00:00,2026-08-30 15:00:00+00:00,114.69835051666668,0.537349
+tennis_atp_us_open|majchrzak|k|vacherot|v,1.0,True,90.0,2026-09-02 21:23:28.457704+00:00,2026-09-02 23:35:00+00:00,131.52570493333332,0.44445650000000003
+tennis_atp_us_open|manuel cerundolo|j|ruud|c,1.0,False,90.0,,,,
+tennis_atp_us_open|marozsan|f|zheng|m,1.0,True,90.0,2026-09-02 00:28:11.946275+00:00,2026-09-02 01:30:00+00:00,61.80089541666667,0.409762
+tennis_atp_us_open|martin etcheverry|t|navone|m,1.0,False,90.0,,,,
+tennis_atp_us_open|medvedev|d|rinderknech|a,1.0,True,90.0,2026-09-04 15:01:56.667687+00:00,2026-09-04 16:10:00+00:00,68.05553855,0.733388
+tennis_atp_us_open|mensik|j|mochizuki|s,1.0,True,90.0,2026-08-31 20:14:30.800190+00:00,2026-08-31 21:25:00+00:00,70.4866635,0.897749
+tennis_atp_us_open|mensik|j|rodionov|j,1.0,True,90.0,2026-09-03 16:02:03.427312+00:00,2026-09-03 17:40:00+00:00,97.94287813333334,0.8835095
+tennis_atp_us_open|mensik|j|tien|l,1.0,False,90.0,,,,
+tennis_atp_us_open|merida aguilar|d|michelsen|a,1.0,False,90.0,,,,
+tennis_atp_us_open|merida aguilar|d|rublev|a,1.0,True,90.0,2026-09-02 13:25:59.455341+00:00,2026-09-02 15:00:00+00:00,94.00907765000001,0.41128149999999997
+tennis_atp_us_open|michelsen|a|nakashima|b,1.0,True,90.0,2026-09-02 13:25:59.455341+00:00,2026-09-02 15:00:00+00:00,94.00907765000001,0.322391
+tennis_atp_us_open|monfils|g|tien|l,1.0,True,90.0,2026-09-03 21:02:07.552190+00:00,2026-09-03 23:00:00+00:00,117.87413016666666,0.172425
+tennis_atp_us_open|moutet|c|sweeny|d,1.0,True,90.0,2026-09-01 13:24:20.374137+00:00,2026-09-01 15:00:00+00:00,95.66043105,0.7343755
+tennis_atp_us_open|mpetshi perricard|g|rodionov|j,1.0,False,90.0,,,,
+tennis_atp_us_open|munar|j|rinderknech|a,1.0,True,90.0,2026-09-02 13:25:59.455341+00:00,2026-09-02 15:00:00+00:00,94.00907765000001,0.403365
+tennis_atp_us_open|musetti|l|sweeny|d,1.0,True,90.0,2026-09-03 14:24:54.538603+00:00,2026-09-03 16:10:00+00:00,105.09102328333333,0.960678
+tennis_atp_us_open|norrie|c|van assche|l,1.0,True,90.0,2026-08-30 15:06:18.319936+00:00,2026-08-30 16:10:00+00:00,63.69466773333333,0.668851
+tennis_atp_us_open|paul|t|prizmic|d,1.0,True,90.0,2026-09-02 22:09:19.406633+00:00,2026-09-02 23:15:00+00:00,65.67655611666666,0.837649
+tennis_atp_us_open|popyrin|a|tabilo|a,1.0,True,90.0,2026-09-03 17:04:47.553453+00:00,2026-09-03 18:20:00+00:00,75.20744244999999,0.387982
+tennis_atp_us_open|prizmic|d|shevchenko|a,1.0,True,90.0,2026-08-30 13:05:18.098969+00:00,2026-08-30 15:00:00+00:00,114.69835051666668,0.711337
+tennis_atp_us_open|rinderknech|a|shimabukuro|s,1.0,True,90.0,2026-08-30 13:05:18.098969+00:00,2026-08-30 15:00:00+00:00,114.69835051666668,0.761001
+tennis_atp_us_open|royer|v|svrcina|d,1.0,True,90.0,2026-08-31 16:10:22.122865+00:00,2026-08-31 17:20:00+00:00,69.63128558333332,0.520902
+tennis_atp_us_open|rublev|a|virtanen|o,1.0,False,90.0,,,,
+tennis_atp_us_open|sakamoto|r|tiafoe|f,1.0,True,90.0,2026-09-02 21:23:28.457704+00:00,2026-09-02 23:00:00+00:00,96.52570493333333,0.2152355
+tennis_atp_us_open|sakamoto|r|vukic|a,1.0,True,90.0,2026-08-30 18:06:25.044109+00:00,2026-08-30 19:20:00+00:00,73.58259818333333,0.588323
+tennis_atp_us_open|shang|j|trungelliti|m,1.0,True,90.0,2026-08-31 18:11:28.941460+00:00,2026-08-31 19:40:00+00:00,88.51764233333333,0.658354
+tennis_atp_us_open|shapovalov|d|shelton|b,1.0,False,90.0,,,,
+tennis_atp_us_open|shapovalov|d|van assche|l,1.0,False,90.0,,,,
+tennis_atp_us_open|sonego|l|zverev|a,1.0,True,90.0,2026-09-01 22:32:44.466672+00:00,2026-09-02 00:10:00+00:00,97.25888880000001,0.060937
+tennis_atp_us_open|tabilo|a|zverev|a,1.0,False,90.0,,,,
+tennis_atp_us_open|tiafoe|f|vacherot|v,1.0,False,90.0,,,,
+tennis_atp_us_open|walton|a|yibing|w,1.0,True,90.0,2026-08-30 13:05:18.098969+00:00,2026-08-30 15:00:00+00:00,114.69835051666668,0.540883
+tennis_atp_us_open|yunchaokete|b|zheng|m,1.0,True,90.0,2026-09-03 20:01:58.489072+00:00,2026-09-03 22:00:00+00:00,118.02518213333333,0.368865

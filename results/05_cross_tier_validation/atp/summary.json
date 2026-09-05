@@ -1,0 +1,65 @@
+{
+  "base_model": {
+    "candidate": "rank_s25_w30_k125",
+    "family": "rank_warmstart",
+    "k_multiplier": 1.25,
+    "surface_weight": 0.25,
+    "warmup_matches": 30
+  },
+  "candidate_count": 85,
+  "cold_start_definition": "either player has fewer than 30 prior main-tour matches",
+  "deduplicated_or_invalid_rows": 0,
+  "folds": [
+    {
+      "fold_id": "20220101_20230101",
+      "train_end": "2022-01-01 00:00:00",
+      "train_indices": 2733,
+      "train_start": "2021-01-01 00:00:00",
+      "validation_end": "2023-01-01 00:00:00",
+      "validation_indices": 2917,
+      "validation_start": "2022-01-01 00:00:00"
+    },
+    {
+      "fold_id": "20230101_20240101",
+      "train_end": "2023-01-01 00:00:00",
+      "train_indices": 5650,
+      "train_start": "2021-01-01 00:00:00",
+      "validation_end": "2024-01-01 00:00:00",
+      "validation_indices": 2986,
+      "validation_start": "2023-01-01 00:00:00"
+    }
+  ],
+  "lower_tier_policy": "history strictly before each validation year",
+  "selected": {
+    "main_only": {
+      "candidate": "main_only__q000_c000_d000",
+      "challenger_weight": 0.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 0.0,
+      "variant": "main_only"
+    },
+    "plus_challenger": {
+      "candidate": "plus_challenger__q050_c000_d000",
+      "challenger_weight": 0.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 0.5,
+      "variant": "plus_challenger"
+    },
+    "plus_developmental": {
+      "candidate": "plus_developmental__q050_c000_d000",
+      "challenger_weight": 0.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 0.5,
+      "variant": "plus_developmental"
+    },
+    "plus_qualifying": {
+      "candidate": "plus_qualifying__q050_c000_d000",
+      "challenger_weight": 0.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 0.5,
+      "variant": "plus_qualifying"
+    }
+  },
+  "selection_metric": "pooled cold-start main-tour log loss",
+  "tour": "atp"
+}

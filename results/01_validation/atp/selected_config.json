@@ -1,0 +1,20 @@
+{
+  "overall_elo": {
+    "candidate": "overall_k125",
+    "family": "overall_elo",
+    "k_multiplier": 1.25
+  },
+  "rank_warmstart": {
+    "candidate": "rank_s25_w30_k125",
+    "family": "rank_warmstart",
+    "k_multiplier": 1.25,
+    "surface_weight": 0.25,
+    "warmup_matches": 30
+  },
+  "surface_elo": {
+    "candidate": "surface_s25_k125",
+    "family": "surface_elo",
+    "k_multiplier": 1.25,
+    "surface_weight": 0.25
+  }
+}

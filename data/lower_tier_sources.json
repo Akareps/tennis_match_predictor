@@ -1,0 +1,24 @@
+{
+  "archive": "Aneeshers/tennis-sackmann-archive",
+  "archive_commit": "83733587353df8a41f2fd4f516147d5aa83f5a8d",
+  "archive_url": "https://github.com/Aneeshers/tennis-sackmann-archive",
+  "attribution": "Tennis databases, files, and algorithms by Jeff Sackmann / Tennis Abstract",
+  "license": "CC BY-NC-SA 4.0",
+  "license_url": "https://github.com/Aneeshers/tennis-sackmann-archive/blob/83733587353df8a41f2fd4f516147d5aa83f5a8d/LICENSE",
+  "retrieved_utc_date": "2026-09-04",
+  "use_restriction": "Non-commercial research only; attribution required; redistributed derivatives must use the same license.",
+  "files": [
+    {"path": "atp_matches_futures_2021.csv", "bytes": 2249760, "rows": 11833, "sha256": "b7d15094ad1c7f8c9d3c9264cfc51031ee27e86979a3afd665149c3ea38adf03"},
+    {"path": "atp_matches_futures_2022.csv", "bytes": 3089510, "rows": 16306, "sha256": "51a9968419f73985f47baa09de526a6b609f6c404e099194cdf638d9c8825fbf"},
+    {"path": "atp_matches_futures_2023.csv", "bytes": 3348959, "rows": 17626, "sha256": "aba255ade094f1baf0a93473e4ff984170465d6a97746be01cba68eeb9497be3"},
+    {"path": "atp_matches_futures_2024.csv", "bytes": 3499745, "rows": 18423, "sha256": "03fef40ec0cbd09ddc0268e10533b24a29570136c5e144a1ff946f39f69d50b4"},
+    {"path": "atp_matches_qual_chall_2021.csv", "bytes": 1550593, "rows": 7497, "sha256": "ac62e3a031aab95ee4724082c2d7a224d6d9662aad0554c8c57712004877ac0a"},
+    {"path": "atp_matches_qual_chall_2022.csv", "bytes": 2071897, "rows": 10016, "sha256": "455dd77775e3f5a5b7ece184af780ba97b548c19d9e49b2073191581443346fbf"},
+    {"path": "atp_matches_qual_chall_2023.csv", "bytes": 2206998, "rows": 10663, "sha256": "cce51f50a75adc60aefdf131c7285d440605fcb0abf7d4c507f01fba689fe882"},
+    {"path": "atp_matches_qual_chall_2024.csv", "bytes": 2316734, "rows": 11190, "sha256": "714347e68ce3436e9009be1f999d0130e09eb74d5cded4ebd97974fce3e0ba6f"},
+    {"path": "wta_matches_qual_itf_2021.csv", "bytes": 4482919, "rows": 24189, "sha256": "7e467660b77ac8652aae53736bfd77204303ed22bac2886b8d8582f47d4165fb"},
+    {"path": "wta_matches_qual_itf_2022.csv", "bytes": 6107506, "rows": 33105, "sha256": "137d6eeeabac52f69b7a23f292da706bb6361c945af0dc4c9d0a1401bc57c4a5"},
+    {"path": "wta_matches_qual_itf_2023.csv", "bytes": 6318123, "rows": 34322, "sha256": "5b8802d4b48d311c786e88e0f80ee0b80ac2581c824bc6cee9aacdb07f01080d"},
+    {"path": "wta_matches_qual_itf_2024.csv", "bytes": 7022486, "rows": 38281, "sha256": "64becb45204cde4bae762adb4cefbeb7a12bbe875d70578bb33a575200fe5d11"}
+  ]
+}

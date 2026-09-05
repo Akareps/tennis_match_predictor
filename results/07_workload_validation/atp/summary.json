@@ -1,0 +1,124 @@
+{
+  "base_cross_tier_spec": {
+    "candidate": "plus_qualifying__q050_c000_d000",
+    "challenger_weight": 0.0,
+    "developmental_weight": 0.0,
+    "qualifying_weight": 0.5,
+    "variant": "plus_qualifying"
+  },
+  "base_cross_tier_variant": "plus_qualifying",
+  "base_model_candidate": {
+    "candidate": "rank_s25_w30_k125",
+    "family": "rank_warmstart",
+    "k_multiplier": 1.25,
+    "surface_weight": 0.25,
+    "warmup_matches": 30
+  },
+  "exact_match_timestamps_available": false,
+  "final_holdout_loaded": false,
+  "forecast_horizon": "round",
+  "locked_best_variant": "plus_availability",
+  "residual_training_years": [
+    2022
+  ],
+  "selected": {
+    "base_model": {
+      "candidate": "base_model",
+      "features": [],
+      "l2": null,
+      "validation_log_loss": 0.6182048971514996,
+      "validation_n": 2888
+    },
+    "plus_availability": {
+      "candidate": "plus_availability__l2_10",
+      "features": [
+        "diff_short_rest",
+        "diff_long_layoff",
+        "diff_surface_switch",
+        "diff_history_missing",
+        "diff_matches_14d",
+        "diff_games_14d",
+        "diff_games_missing_14d",
+        "diff_minutes_14d",
+        "diff_minutes_missing_14d",
+        "diff_bo5_sets_14d",
+        "diff_same_event_matches",
+        "diff_same_event_games",
+        "diff_same_event_games_missing",
+        "diff_same_event_minutes",
+        "diff_same_event_minutes_missing",
+        "diff_same_event_bo5_sets",
+        "diff_retirement_decay",
+        "diff_retirements_90d"
+      ],
+      "l2": 10.0,
+      "validation_log_loss": 0.6129791323469761,
+      "validation_n": 2888
+    },
+    "plus_recent_load": {
+      "candidate": "plus_recent_load__l2_10",
+      "features": [
+        "diff_short_rest",
+        "diff_long_layoff",
+        "diff_surface_switch",
+        "diff_history_missing",
+        "diff_matches_14d",
+        "diff_games_14d",
+        "diff_games_missing_14d",
+        "diff_minutes_14d",
+        "diff_minutes_missing_14d",
+        "diff_bo5_sets_14d"
+      ],
+      "l2": 10.0,
+      "validation_log_loss": 0.6136379023196158,
+      "validation_n": 2888
+    },
+    "plus_recovery": {
+      "candidate": "plus_recovery__l2_0.1",
+      "features": [
+        "diff_short_rest",
+        "diff_long_layoff",
+        "diff_surface_switch",
+        "diff_history_missing"
+      ],
+      "l2": 0.1,
+      "validation_log_loss": 0.6140071282019706,
+      "validation_n": 2888
+    },
+    "plus_same_event_load": {
+      "candidate": "plus_same_event_load__l2_10",
+      "features": [
+        "diff_short_rest",
+        "diff_long_layoff",
+        "diff_surface_switch",
+        "diff_history_missing",
+        "diff_matches_14d",
+        "diff_games_14d",
+        "diff_games_missing_14d",
+        "diff_minutes_14d",
+        "diff_minutes_missing_14d",
+        "diff_bo5_sets_14d",
+        "diff_same_event_matches",
+        "diff_same_event_games",
+        "diff_same_event_games_missing",
+        "diff_same_event_minutes",
+        "diff_same_event_minutes_missing",
+        "diff_same_event_bo5_sets"
+      ],
+      "l2": 10.0,
+      "validation_log_loss": 0.6130390695299448,
+      "validation_n": 2888
+    },
+    "recalibrated": {
+      "candidate": "recalibrated__l2_0",
+      "features": [],
+      "l2": 0.0,
+      "validation_log_loss": 0.6183559376408705,
+      "validation_n": 2888
+    }
+  },
+  "selection_metric": "main-tour validation log loss",
+  "tour": "atp",
+  "validation_year": 2023,
+  "workload_source": "main-tour matches only"
+}

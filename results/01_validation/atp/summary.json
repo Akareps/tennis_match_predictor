@@ -1,0 +1,44 @@
+{
+  "candidate_count": 39,
+  "folds": [
+    {
+      "fold_id": "20220101_20230101",
+      "train_end": "2022-01-01 00:00:00",
+      "train_indices": 2733,
+      "train_start": "2021-01-01 00:00:00",
+      "validation_end": "2023-01-01 00:00:00",
+      "validation_indices": 2917,
+      "validation_start": "2022-01-01 00:00:00"
+    },
+    {
+      "fold_id": "20230101_20240101",
+      "train_end": "2023-01-01 00:00:00",
+      "train_indices": 5650,
+      "train_start": "2021-01-01 00:00:00",
+      "validation_end": "2024-01-01 00:00:00",
+      "validation_indices": 2986,
+      "validation_start": "2023-01-01 00:00:00"
+    }
+  ],
+  "selected": {
+    "overall_elo": {
+      "candidate": "overall_k125",
+      "family": "overall_elo",
+      "k_multiplier": 1.25
+    },
+    "rank_warmstart": {
+      "candidate": "rank_s25_w30_k125",
+      "family": "rank_warmstart",
+      "k_multiplier": 1.25,
+      "surface_weight": 0.25,
+      "warmup_matches": 30
+    },
+    "surface_elo": {
+      "candidate": "surface_s25_k125",
+      "family": "surface_elo",
+      "k_multiplier": 1.25,
+      "surface_weight": 0.25
+    }
+  },
+  "tour": "atp"
+}

@@ -1,0 +1,349 @@
+market_match_key,horizon_hours,available,tolerance_minutes,snapshot_ts,contemporaneous_commence_time,lead_minutes,consensus_prob_a
+tennis_wta_monterrey_open|bartunkova|n|mertens|e,24.0,False,90.0,,,,
+tennis_wta_monterrey_open|li|a|parry|d,24.0,False,90.0,,,,
+tennis_wta_monterrey_open|mertens|e|parry|d,24.0,False,90.0,,,,
+tennis_wta_us_open|alexandrova|e|birrell|k,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.795495
+tennis_wta_us_open|alexandrova|e|kessler|m,24.0,False,90.0,,,,
+tennis_wta_us_open|alexandrova|e|kostyuk|m,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.271869
+tennis_wta_us_open|andreeva|m|bartunkova|n,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.802033
+tennis_wta_us_open|andreeva|m|lys|e,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.912243
+tennis_wta_us_open|andreeva|m|tjen|j,24.0,True,90.0,2026-08-31 16:10:24.646122+00:00,2026-09-01 16:40:00+00:00,1469.5892313,0.873102
+tennis_wta_us_open|anisimova|a|krueger|a,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:40:00+00:00,1470.4774428833334,0.851881
+tennis_wta_us_open|anisimova|a|potapova|a,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.84533
+tennis_wta_us_open|anisimova|a|tagger|l,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.815209
+tennis_wta_us_open|arango|e|wang|x,24.0,False,90.0,,,,
+tennis_wta_us_open|badosa|p|gauff|c,24.0,True,90.0,2026-09-02 22:09:20.763689+00:00,2026-09-03 23:00:00+00:00,1490.6539385166666,0.115333
+tennis_wta_us_open|badosa|p|kasatkina|d,24.0,False,90.0,,,,
+tennis_wta_us_open|bartunkova|n|maria|t,24.0,False,90.0,,,,
+tennis_wta_us_open|bartunkova|n|sherif|m,24.0,True,90.0,2026-08-31 18:11:30.787545+00:00,2026-09-01 19:00:00+00:00,1488.48687425,0.804381
+tennis_wta_us_open|bejlek|s|bucsa|c,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.776369
+tennis_wta_us_open|bencic|b|putintseva|y,24.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-09-01 15:00:00+00:00,1493.0809434166665,0.8193225
+tennis_wta_us_open|birrell|k|marcinko|p,24.0,True,90.0,2026-08-29 18:01:24.274644+00:00,2026-08-30 19:30:00+00:00,1528.5954226,0.520606
+tennis_wta_us_open|blinkova|a|kalinskaya|a,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:10:00+00:00,1440.4774428833334,0.252018
+tennis_wta_us_open|boisson|l|navarro|e,24.0,True,90.0,2026-08-29 20:06:23.141431+00:00,2026-08-30 21:00:00+00:00,1493.6143094833335,0.27107349999999997
+tennis_wta_us_open|bondar|a|havlickova|l,24.0,False,90.0,,,,
+tennis_wta_us_open|bondar|a|keys|m,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.097605
+tennis_wta_us_open|boulter|k|muchova|k,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.1372575
+tennis_wta_us_open|boulter|k|young suh lee|c,24.0,False,90.0,,,,
+tennis_wta_us_open|bouzas maneiro|j|rybakina|e,24.0,True,90.0,2026-09-03 00:29:43.385265+00:00,2026-09-04 00:40:00+00:00,1450.27691225,0.139651
+tennis_wta_us_open|bouzas maneiro|j|vidmanova|d,24.0,True,90.0,2026-08-31 16:10:24.646122+00:00,2026-09-01 16:40:00+00:00,1469.5892313,0.513927
+tennis_wta_us_open|bouzkova|m|dart|h,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.843025
+tennis_wta_us_open|bouzkova|m|jacquemot|e,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.90487
+tennis_wta_us_open|bouzkova|m|swiatek|i,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.13940750000000002
+tennis_wta_us_open|brantmeier|r|oliynykova|o,24.0,True,90.0,2026-08-31 19:13:32.802877+00:00,2026-09-01 19:30:00+00:00,1456.4532853833334,0.5
+tennis_wta_us_open|bucsa|c|gauff|c,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.034492999999999996
+tennis_wta_us_open|bucsa|c|sakatsume|h,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.669025
+tennis_wta_us_open|camila osorio serrano|m|sabalenka|a,24.0,True,90.0,2026-08-30 15:06:22.386027+00:00,2026-08-31 15:30:00+00:00,1463.62689955,0.068584
+tennis_wta_us_open|chwalinska|m|townsend|t,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:10:00+00:00,1440.4774428833334,0.319918
+tennis_wta_us_open|cirstea|s|grabher|j,24.0,True,90.0,2026-08-30 18:06:30.227076+00:00,2026-08-31 18:40:00+00:00,1473.4962154,0.913424
+tennis_wta_us_open|cirstea|s|paolini|j,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.642351
+tennis_wta_us_open|cirstea|s|parry|d,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.733617
+tennis_wta_us_open|cocciaretto|e|siniakova|k,24.0,True,90.0,2026-08-30 19:03:06.870469+00:00,2026-08-31 19:30:00+00:00,1466.8854921833333,0.358678
+tennis_wta_us_open|dart|h|stearns|p,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.270005
+tennis_wta_us_open|eala|a|jovic|i,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.453175
+tennis_wta_us_open|eala|a|oliynykova|o,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.913424
+tennis_wta_us_open|eala|a|stoiana|m,24.0,True,90.0,2026-09-01 00:28:08.796218+00:00,2026-09-02 00:40:00+00:00,1451.8533963666666,0.784493
+tennis_wta_us_open|erjavec|v|paolini|j,24.0,False,90.0,,,,
+tennis_wta_us_open|fernandez|l|pegula|j,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.153579
+tennis_wta_us_open|fernandez|l|sawangkaew|m,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.733617
+tennis_wta_us_open|fernandez|l|zhang|s,24.0,False,90.0,,,,
+tennis_wta_us_open|frech|m|jovic|i,24.0,True,90.0,2026-08-31 17:09:13.857981+00:00,2026-09-01 17:50:00+00:00,1480.7690336500002,0.242255
+tennis_wta_us_open|frodin|t|rybakina|e,24.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-09-01 15:00:00+00:00,1493.0809434166665,0.036409
+tennis_wta_us_open|gabriela ruse|e|pegula|j,24.0,False,90.0,,,,
+tennis_wta_us_open|gauff|c|sonmez|z,24.0,True,90.0,2026-08-31 22:16:41.612839+00:00,2026-09-01 23:00:00+00:00,1483.3064526833334,0.950954
+tennis_wta_us_open|gibson|t|vekic|d,24.0,False,90.0,,,,
+tennis_wta_us_open|golubic|v|parry|d,24.0,True,90.0,2026-08-30 18:06:30.227076+00:00,2026-08-31 19:00:00+00:00,1493.4962154,0.468143
+tennis_wta_us_open|hunter|s|kostyuk|m,24.0,False,90.0,,,,
+tennis_wta_us_open|iatcenko|p|sabalenka|a,24.0,True,90.0,2026-09-01 22:32:46.699890+00:00,2026-09-02 23:00:00+00:00,1467.2216684999999,0.025173
+tennis_wta_us_open|iatcenko|p|zarazua|r,24.0,False,90.0,,,,
+tennis_wta_us_open|ito|a|selekhmeteva|o,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:10:00+00:00,1440.4774428833334,0.405727
+tennis_wta_us_open|jeanjean|l|potapova|a,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.230712
+tennis_wta_us_open|jeanjean|l|rus|a,24.0,True,90.0,2026-08-31 17:09:13.857981+00:00,2026-09-01 17:50:00+00:00,1480.7690336500002,0.657177
+tennis_wta_us_open|joint|m|samsonova|l,24.0,True,90.0,2026-08-30 20:04:08.100330+00:00,2026-08-31 21:00:00+00:00,1495.8649945,0.288663
+tennis_wta_us_open|joint|m|svitolina|e,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.101804
+tennis_wta_us_open|jones|f|jovic|i,24.0,False,90.0,,,,
+tennis_wta_us_open|jones|f|linette|m,24.0,True,90.0,2026-08-31 18:11:30.787545+00:00,2026-09-01 19:00:00+00:00,1488.48687425,0.477574
+tennis_wta_us_open|kalieva|e|tararudee|l,24.0,False,90.0,,,,
+tennis_wta_us_open|kalinina|a|sakatsume|h,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.743805
+tennis_wta_us_open|kalinskaya|a|svitolina|e,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.295657
+tennis_wta_us_open|kalinskaya|a|wang|x,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.674383
+tennis_wta_us_open|kenin|s|pegula|j,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.049046
+tennis_wta_us_open|kenin|s|williams|v,24.0,True,90.0,2026-08-30 00:04:23.767992+00:00,2026-08-31 00:40:00+00:00,1475.6038668,0.872017
+tennis_wta_us_open|keys|m|korneeva|a,24.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-09-01 15:30:00+00:00,1523.0809434166665,0.7221
+tennis_wta_us_open|keys|m|zheng|q,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.608727
+tennis_wta_us_open|knutson|g|lys|e,24.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-09-01 15:00:00+00:00,1493.0809434166665,0.3659215
+tennis_wta_us_open|koevermans|a|mcnally|c,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:40:00+00:00,1470.4774428833334,0.179991
+tennis_wta_us_open|korpatsch|t|tagger|l,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.198466
+tennis_wta_us_open|kostyuk|m|stephens|s,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.895342
+tennis_wta_us_open|kraus|s|muchova|k,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.105981
+tennis_wta_us_open|krejcikova|b|rakhimova|k,24.0,False,90.0,,,,
+tennis_wta_us_open|liutova|k|zheng|q,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.355614
+tennis_wta_us_open|li|a|noskova|l,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.246271
+tennis_wta_us_open|li|a|ruzic|a,24.0,True,90.0,2026-08-30 17:07:24.561804+00:00,2026-08-31 18:00:00+00:00,1492.5906366000002,0.74878
+tennis_wta_us_open|li|a|vekic|d,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.608905
+tennis_wta_us_open|maria|t|ostapenko|j,24.0,True,90.0,2026-08-31 16:10:24.646122+00:00,2026-09-01 16:40:00+00:00,1469.5892313,0.391273
+tennis_wta_us_open|mcnally|c|navarro|e,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.471657
+tennis_wta_us_open|mertens|e|osaka|n,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.27226249999999996
+tennis_wta_us_open|mertens|e|quevedo|k,24.0,True,90.0,2026-08-31 17:09:13.857981+00:00,2026-09-01 17:50:00+00:00,1480.7690336500002,0.84163
+tennis_wta_us_open|mertens|e|timofeeva|m,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.7407954999999999
+tennis_wta_us_open|montgomery|r|sakkari|m,24.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-09-01 15:00:00+00:00,1493.0809434166665,0.426863
+tennis_wta_us_open|muchova|k|navarro|e,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.793484
+tennis_wta_us_open|noskova|l|tararudee|l,24.0,True,90.0,2026-09-02 00:28:13.627322+00:00,2026-09-03 00:40:00+00:00,1451.7728779666666,0.797063
+tennis_wta_us_open|noskova|l|volynets|k,24.0,True,90.0,2026-08-30 18:06:30.227076+00:00,2026-08-31 18:30:00+00:00,1463.4962154,0.742647
+tennis_wta_us_open|osaka|n|siniakova|k,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.772965
+tennis_wta_us_open|osaka|n|zakharova|a,24.0,True,90.0,2026-08-31 00:03:16.540211+00:00,2026-09-01 00:40:00+00:00,1476.7243298166666,0.895342
+tennis_wta_us_open|paolini|j|stefanini|l,24.0,True,90.0,2026-09-01 17:18:57.365539+00:00,2026-09-02 18:00:00+00:00,1481.0439076833331,0.679728
+tennis_wta_us_open|parks|a|preston|t,24.0,True,90.0,2026-08-29 18:01:24.274644+00:00,2026-08-30 19:30:00+00:00,1528.5954226,0.505699
+tennis_wta_us_open|pliskova|k|shnaider|d,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.223499
+tennis_wta_us_open|pliskova|k|vandewinkel|h,24.0,True,90.0,2026-08-29 18:01:24.274644+00:00,2026-08-30 18:20:00+00:00,1458.5954226,0.48974
+tennis_wta_us_open|podoroska|n|swiatek|i,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.018434
+tennis_wta_us_open|podoroska|n|waltert|s,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:10:00+00:00,1440.4774428833334,0.358678
+tennis_wta_us_open|potapova|a|semenistaja|d,24.0,False,90.0,,,,
+tennis_wta_us_open|potapova|a|valentova|t,24.0,True,90.0,2026-08-31 16:10:24.646122+00:00,2026-09-01 16:40:00+00:00,1469.5892313,0.330975
+tennis_wta_us_open|preston|t|townsend|t,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.213467
+tennis_wta_us_open|putintseva|y|zheng|q,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.272325
+tennis_wta_us_open|rakhimova|k|sabalenka|a,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.058409
+tennis_wta_us_open|rakhimova|k|selekhmeteva|o,24.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-02 15:00:00+00:00,1476.2895667500002,0.61959
+tennis_wta_us_open|rybakina|e|starodubtseva|y,24.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-05 15:00:00+00:00,1498.4106558333333,0.915197
+tennis_wta_us_open|sakkari|m|starodubtseva|y,24.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-03 15:00:00+00:00,1469.80658025,0.597472
+tennis_wta_us_open|sawangkaew|m|udvardy|p,24.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-31 15:00:00+00:00,1494.4217151333332,0.608727
+tennis_wta_us_open|seidel|e|starodubtseva|y,24.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-09-01 15:00:00+00:00,1493.0809434166665,0.288663
+tennis_wta_us_open|shnaider|d|snigur|d,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 16:40:00+00:00,1470.4774428833334,0.733084
+tennis_wta_us_open|shnaider|d|townsend|t,24.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-04 15:00:00+00:00,1475.0311241000002,0.6087560000000001
+tennis_wta_us_open|sierra|s|svitolina|e,24.0,True,90.0,2026-08-29 22:05:15.591282+00:00,2026-08-30 23:00:00+00:00,1494.7401453,0.077573
+tennis_wta_us_open|stefanini|l|yastremska|d,24.0,False,90.0,,,,
+tennis_wta_us_open|stephens|s|tauson|c,24.0,True,90.0,2026-08-30 17:07:24.561804+00:00,2026-08-31 18:00:00+00:00,1492.5906366000002,0.284676
+tennis_wta_us_open|swiatek|i|wang|x,24.0,True,90.0,2026-08-30 22:03:15.079229+00:00,2026-08-31 23:00:00+00:00,1496.7486795166667,0.9050860000000001
+tennis_wta_us_open|timofeeva|m|zidansek|t,24.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-31 17:00:00+00:00,1490.4774428833334,0.677384
+tennis_wta_monterrey_open|bartunkova|n|mertens|e,6.0,True,90.0,2026-08-28 18:06:50.970454+00:00,2026-08-29 01:00:00+00:00,413.15049243333334,0.425301
+tennis_wta_monterrey_open|li|a|parry|d,6.0,False,90.0,,,,
+tennis_wta_monterrey_open|mertens|e|parry|d,6.0,False,90.0,,,,
+tennis_wta_us_open|alexandrova|e|birrell|k,6.0,True,90.0,2026-09-02 12:23:31.663502+00:00,2026-09-02 19:00:00+00:00,396.4722749666667,0.797063
+tennis_wta_us_open|alexandrova|e|kessler|m,6.0,False,90.0,,,,
+tennis_wta_us_open|alexandrova|e|kostyuk|m,6.0,False,90.0,,,,
+tennis_wta_us_open|andreeva|m|bartunkova|n,6.0,False,90.0,,,,
+tennis_wta_us_open|andreeva|m|lys|e,6.0,True,90.0,2026-09-03 11:04:59.481010+00:00,2026-09-03 17:50:00+00:00,405.0086498333333,0.912796
+tennis_wta_us_open|andreeva|m|tjen|j,6.0,False,90.0,,,,
+tennis_wta_us_open|anisimova|a|krueger|a,6.0,False,90.0,,,,
+tennis_wta_us_open|anisimova|a|potapova|a,6.0,False,90.0,,,,
+tennis_wta_us_open|anisimova|a|tagger|l,6.0,False,90.0,,,,
+tennis_wta_us_open|arango|e|wang|x,6.0,False,90.0,,,,
+tennis_wta_us_open|badosa|p|gauff|c,6.0,True,90.0,2026-09-03 16:02:04.790792+00:00,2026-09-03 23:00:00+00:00,417.92015346666665,0.12323100000000001
+tennis_wta_us_open|badosa|p|kasatkina|d,6.0,False,90.0,,,,
+tennis_wta_us_open|bartunkova|n|maria|t,6.0,True,90.0,2026-09-03 12:27:06.411711+00:00,2026-09-03 18:30:00+00:00,362.89313814999997,0.692215
+tennis_wta_us_open|bartunkova|n|sherif|m,6.0,True,90.0,2026-09-01 12:16:17.049433+00:00,2026-09-01 19:00:00+00:00,403.71584278333336,0.802033
+tennis_wta_us_open|bejlek|s|bucsa|c,6.0,False,90.0,,,,
+tennis_wta_us_open|bencic|b|putintseva|y,6.0,False,90.0,,,,
+tennis_wta_us_open|birrell|k|marcinko|p,6.0,True,90.0,2026-08-30 13:05:26.193270+00:00,2026-08-30 19:30:00+00:00,384.5634455,0.520606
+tennis_wta_us_open|blinkova|a|kalinskaya|a,6.0,False,90.0,,,,
+tennis_wta_us_open|boisson|l|navarro|e,6.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-30 21:00:00+00:00,414.42171513333335,0.274187
+tennis_wta_us_open|bondar|a|havlickova|l,6.0,False,90.0,,,,
+tennis_wta_us_open|bondar|a|keys|m,6.0,False,90.0,,,,
+tennis_wta_us_open|boulter|k|muchova|k,6.0,True,90.0,2026-09-02 11:22:46.333980+00:00,2026-09-02 18:10:00+00:00,407.22776700000003,0.1398505
+tennis_wta_us_open|boulter|k|young suh lee|c,6.0,False,90.0,,,,
+tennis_wta_us_open|bouzas maneiro|j|rybakina|e,6.0,True,90.0,2026-09-03 18:05:10.239622+00:00,2026-09-04 00:40:00+00:00,394.8293396333333,0.148119
+tennis_wta_us_open|bouzas maneiro|j|vidmanova|d,6.0,False,90.0,,,,
+tennis_wta_us_open|bouzkova|m|dart|h,6.0,False,90.0,,,,
+tennis_wta_us_open|bouzkova|m|jacquemot|e,6.0,False,90.0,,,,
+tennis_wta_us_open|bouzkova|m|swiatek|i,6.0,False,90.0,,,,
+tennis_wta_us_open|brantmeier|r|oliynykova|o,6.0,True,90.0,2026-09-01 13:24:22.262752+00:00,2026-09-01 19:30:00+00:00,365.62895413333337,0.5
+tennis_wta_us_open|bucsa|c|gauff|c,6.0,False,90.0,,,,
+tennis_wta_us_open|bucsa|c|sakatsume|h,6.0,True,90.0,2026-09-03 11:04:59.481010+00:00,2026-09-03 17:20:00+00:00,375.0086498333333,0.641083
+tennis_wta_us_open|camila osorio serrano|m|sabalenka|a,6.0,False,90.0,,,,
+tennis_wta_us_open|chwalinska|m|townsend|t,6.0,False,90.0,,,,
+tennis_wta_us_open|cirstea|s|grabher|j,6.0,True,90.0,2026-08-31 12:05:55.288046+00:00,2026-08-31 18:40:00+00:00,394.07853256666664,0.911062
+tennis_wta_us_open|cirstea|s|paolini|j,6.0,False,90.0,,,,
+tennis_wta_us_open|cirstea|s|parry|d,6.0,False,90.0,,,,
+tennis_wta_us_open|cocciaretto|e|siniakova|k,6.0,False,90.0,,,,
+tennis_wta_us_open|dart|h|stearns|p,6.0,False,90.0,,,,
+tennis_wta_us_open|eala|a|jovic|i,6.0,False,90.0,,,,
+tennis_wta_us_open|eala|a|oliynykova|o,6.0,False,90.0,,,,
+tennis_wta_us_open|eala|a|stoiana|m,6.0,True,90.0,2026-09-01 18:19:54.722289+00:00,2026-09-02 00:40:00+00:00,380.08796185,0.799691
+tennis_wta_us_open|erjavec|v|paolini|j,6.0,False,90.0,,,,
+tennis_wta_us_open|fernandez|l|pegula|j,6.0,False,90.0,,,,
+tennis_wta_us_open|fernandez|l|sawangkaew|m,6.0,False,90.0,,,,
+tennis_wta_us_open|fernandez|l|zhang|s,6.0,False,90.0,,,,
+tennis_wta_us_open|frech|m|jovic|i,6.0,True,90.0,2026-09-01 11:01:55.712999+00:00,2026-09-01 17:50:00+00:00,408.0714500166667,0.239874
+tennis_wta_us_open|frodin|t|rybakina|e,6.0,False,90.0,,,,
+tennis_wta_us_open|gabriela ruse|e|pegula|j,6.0,False,90.0,,,,
+tennis_wta_us_open|gauff|c|sonmez|z,6.0,True,90.0,2026-09-01 16:19:49.362049+00:00,2026-09-01 23:00:00+00:00,400.17729918333333,0.950954
+tennis_wta_us_open|gibson|t|vekic|d,6.0,False,90.0,,,,
+tennis_wta_us_open|golubic|v|parry|d,6.0,True,90.0,2026-08-31 12:05:55.288046+00:00,2026-08-31 19:00:00+00:00,414.07853256666664,0.471457
+tennis_wta_us_open|hunter|s|kostyuk|m,6.0,False,90.0,,,,
+tennis_wta_us_open|iatcenko|p|sabalenka|a,6.0,False,90.0,,,,
+tennis_wta_us_open|iatcenko|p|zarazua|r,6.0,False,90.0,,,,
+tennis_wta_us_open|ito|a|selekhmeteva|o,6.0,False,90.0,,,,
+tennis_wta_us_open|jeanjean|l|potapova|a,6.0,False,90.0,,,,
+tennis_wta_us_open|jeanjean|l|rus|a,6.0,True,90.0,2026-09-01 11:01:55.712999+00:00,2026-09-01 17:50:00+00:00,408.0714500166667,0.656048
+tennis_wta_us_open|joint|m|samsonova|l,6.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-08-31 21:00:00+00:00,413.0809434166667,0.285328
+tennis_wta_us_open|joint|m|svitolina|e,6.0,True,90.0,2026-09-02 14:30:11.605185+00:00,2026-09-02 21:00:00+00:00,389.80658024999997,0.109788
+tennis_wta_us_open|jones|f|jovic|i,6.0,True,90.0,2026-09-03 13:29:14.113478+00:00,2026-09-03 20:00:00+00:00,390.7647753666667,0.138854
+tennis_wta_us_open|jones|f|linette|m,6.0,True,90.0,2026-09-01 12:16:17.049433+00:00,2026-09-01 19:00:00+00:00,403.71584278333336,0.5
+tennis_wta_us_open|kalieva|e|tararudee|l,6.0,False,90.0,,,,
+tennis_wta_us_open|kalinina|a|sakatsume|h,6.0,False,90.0,,,,
+tennis_wta_us_open|kalinskaya|a|svitolina|e,6.0,False,90.0,,,,
+tennis_wta_us_open|kalinskaya|a|wang|x,6.0,True,90.0,2026-09-02 11:22:46.333980+00:00,2026-09-02 18:10:00+00:00,407.22776700000003,0.671756
+tennis_wta_us_open|kenin|s|pegula|j,6.0,False,90.0,,,,
+tennis_wta_us_open|kenin|s|williams|v,6.0,True,90.0,2026-08-30 18:06:30.227076+00:00,2026-08-31 00:40:00+00:00,393.49621540000004,0.8706795
+tennis_wta_us_open|keys|m|korneeva|a,6.0,False,90.0,,,,
+tennis_wta_us_open|keys|m|zheng|q,6.0,False,90.0,,,,
+tennis_wta_us_open|knutson|g|lys|e,6.0,False,90.0,,,,
+tennis_wta_us_open|koevermans|a|mcnally|c,6.0,True,90.0,2026-08-31 11:06:08.387225+00:00,2026-08-31 17:30:00+00:00,383.8602129166667,0.178635
+tennis_wta_us_open|korpatsch|t|tagger|l,6.0,False,90.0,,,,
+tennis_wta_us_open|kostyuk|m|stephens|s,6.0,False,90.0,,,,
+tennis_wta_us_open|kraus|s|muchova|k,6.0,False,90.0,,,,
+tennis_wta_us_open|krejcikova|b|rakhimova|k,6.0,False,90.0,,,,
+tennis_wta_us_open|liutova|k|zheng|q,6.0,False,90.0,,,,
+tennis_wta_us_open|li|a|noskova|l,6.0,True,90.0,2026-09-04 12:01:35.359959+00:00,2026-09-04 18:10:00+00:00,368.41066735,0.241213
+tennis_wta_us_open|li|a|ruzic|a,6.0,True,90.0,2026-08-31 12:05:55.288046+00:00,2026-08-31 19:30:00+00:00,444.07853256666664,0.754915
+tennis_wta_us_open|li|a|vekic|d,6.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 19:40:00+00:00,373.9856089833333,0.602491
+tennis_wta_us_open|maria|t|ostapenko|j,6.0,False,90.0,,,,
+tennis_wta_us_open|mcnally|c|navarro|e,6.0,False,90.0,,,,
+tennis_wta_us_open|mertens|e|osaka|n,6.0,False,90.0,,,,
+tennis_wta_us_open|mertens|e|quevedo|k,6.0,True,90.0,2026-09-01 11:01:55.712999+00:00,2026-09-01 17:50:00+00:00,408.0714500166667,0.84163
+tennis_wta_us_open|mertens|e|timofeeva|m,6.0,False,90.0,,,,
+tennis_wta_us_open|montgomery|r|sakkari|m,6.0,False,90.0,,,,
+tennis_wta_us_open|muchova|k|navarro|e,6.0,True,90.0,2026-09-04 11:16:21.763000+00:00,2026-09-04 17:50:00+00:00,393.63728333333336,0.795008
+tennis_wta_us_open|noskova|l|tararudee|l,6.0,True,90.0,2026-09-02 17:39:04.289689+00:00,2026-09-03 00:40:00+00:00,420.9285051833333,0.8071699999999999
+tennis_wta_us_open|noskova|l|volynets|k,6.0,True,90.0,2026-08-31 12:05:55.288046+00:00,2026-08-31 18:40:00+00:00,394.07853256666664,0.740804
+tennis_wta_us_open|osaka|n|siniakova|k,6.0,False,90.0,,,,
+tennis_wta_us_open|osaka|n|zakharova|a,6.0,True,90.0,2026-08-31 18:11:30.787545+00:00,2026-09-01 00:40:00+00:00,388.48687425,0.895342
+tennis_wta_us_open|paolini|j|stefanini|l,6.0,False,90.0,,,,
+tennis_wta_us_open|parks|a|preston|t,6.0,True,90.0,2026-08-30 13:05:26.193270+00:00,2026-08-30 19:30:00+00:00,384.5634455,0.50578
+tennis_wta_us_open|pliskova|k|shnaider|d,6.0,False,90.0,,,,
+tennis_wta_us_open|pliskova|k|vandewinkel|h,6.0,True,90.0,2026-08-30 12:05:29.391633+00:00,2026-08-30 18:20:00+00:00,374.51013945,0.490717
+tennis_wta_us_open|podoroska|n|swiatek|i,6.0,False,90.0,,,,
+tennis_wta_us_open|podoroska|n|waltert|s,6.0,False,90.0,,,,
+tennis_wta_us_open|potapova|a|semenistaja|d,6.0,False,90.0,,,,
+tennis_wta_us_open|potapova|a|valentova|t,6.0,False,90.0,,,,
+tennis_wta_us_open|preston|t|townsend|t,6.0,False,90.0,,,,
+tennis_wta_us_open|putintseva|y|zheng|q,6.0,False,90.0,,,,
+tennis_wta_us_open|rakhimova|k|sabalenka|a,6.0,False,90.0,,,,
+tennis_wta_us_open|rakhimova|k|selekhmeteva|o,6.0,True,90.0,2026-09-02 12:23:31.663502+00:00,2026-09-02 18:40:00+00:00,376.4722749666667,0.621485
+tennis_wta_us_open|rybakina|e|starodubtseva|y,6.0,False,90.0,,,,
+tennis_wta_us_open|sakkari|m|starodubtseva|y,6.0,True,90.0,2026-09-03 11:04:59.481010+00:00,2026-09-03 18:20:00+00:00,435.0086498333333,0.636169
+tennis_wta_us_open|sawangkaew|m|udvardy|p,6.0,False,90.0,,,,
+tennis_wta_us_open|seidel|e|starodubtseva|y,6.0,False,90.0,,,,
+tennis_wta_us_open|shnaider|d|snigur|d,6.0,False,90.0,,,,
+tennis_wta_us_open|shnaider|d|townsend|t,6.0,False,90.0,,,,
+tennis_wta_us_open|sierra|s|svitolina|e,6.0,True,90.0,2026-08-30 16:09:31.353427+00:00,2026-08-30 23:00:00+00:00,410.47744288333337,0.077573
+tennis_wta_us_open|stefanini|l|yastremska|d,6.0,False,90.0,,,,
+tennis_wta_us_open|stephens|s|tauson|c,6.0,True,90.0,2026-08-31 12:05:55.288046+00:00,2026-08-31 19:15:00+00:00,429.07853256666664,0.293053
+tennis_wta_us_open|swiatek|i|wang|x,6.0,True,90.0,2026-08-31 16:10:24.646122+00:00,2026-08-31 23:00:00+00:00,409.58923130000005,0.930771
+tennis_wta_us_open|timofeeva|m|zidansek|t,6.0,False,90.0,,,,
+tennis_wta_monterrey_open|bartunkova|n|mertens|e,1.0,False,90.0,,,,
+tennis_wta_monterrey_open|li|a|parry|d,1.0,False,90.0,,,,
+tennis_wta_monterrey_open|mertens|e|parry|d,1.0,True,90.0,2026-08-29 22:05:12.239035+00:00,2026-08-29 23:30:00+00:00,84.79601608333334,0.631129
+tennis_wta_us_open|alexandrova|e|birrell|k,1.0,True,90.0,2026-09-02 19:18:09.117101+00:00,2026-09-02 21:35:00+00:00,136.84804831666668,0.788913
+tennis_wta_us_open|alexandrova|e|kessler|m,1.0,True,90.0,2026-08-30 17:07:24.561804+00:00,2026-08-30 18:25:00+00:00,77.5906366,0.579346
+tennis_wta_us_open|alexandrova|e|kostyuk|m,1.0,True,90.0,2026-09-04 13:01:31.403971+00:00,2026-09-04 15:00:00+00:00,118.47660048333334,0.242608
+tennis_wta_us_open|andreeva|m|bartunkova|n,1.0,False,90.0,,,,
+tennis_wta_us_open|andreeva|m|lys|e,1.0,True,90.0,2026-09-03 18:05:10.239622+00:00,2026-09-03 19:20:00+00:00,74.82933963333333,0.9137955
+tennis_wta_us_open|andreeva|m|tjen|j,1.0,True,90.0,2026-09-01 15:26:56.646464+00:00,2026-09-01 16:40:00+00:00,73.05589226666666,0.878516
+tennis_wta_us_open|anisimova|a|krueger|a,1.0,False,90.0,,,,
+tennis_wta_us_open|anisimova|a|potapova|a,1.0,False,90.0,,,,
+tennis_wta_us_open|anisimova|a|tagger|l,1.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-03 16:10:00+00:00,105.0311241,0.827575
+tennis_wta_us_open|arango|e|wang|x,1.0,True,90.0,2026-08-30 15:06:22.386027+00:00,2026-08-30 16:10:00+00:00,63.62689955,0.258277
+tennis_wta_us_open|badosa|p|gauff|c,1.0,True,90.0,2026-09-03 21:02:09.133360+00:00,2026-09-03 23:00:00+00:00,117.84777733333334,0.1211815
+tennis_wta_us_open|badosa|p|kasatkina|d,1.0,True,90.0,2026-09-01 17:18:57.365539+00:00,2026-09-01 18:55:00+00:00,96.04390768333333,0.5354605
+tennis_wta_us_open|bartunkova|n|maria|t,1.0,True,90.0,2026-09-03 17:04:48.520648+00:00,2026-09-03 18:30:00+00:00,85.19132253333333,0.7026654999999999
+tennis_wta_us_open|bartunkova|n|sherif|m,1.0,True,90.0,2026-09-01 21:25:14.859845+00:00,2026-09-01 22:45:00+00:00,79.75233591666667,0.829866
+tennis_wta_us_open|bejlek|s|bucsa|c,1.0,False,90.0,,,,
+tennis_wta_us_open|bencic|b|putintseva|y,1.0,True,90.0,2026-09-01 16:19:49.362049+00:00,2026-09-01 17:30:00+00:00,70.17729918333333,0.8169175
+tennis_wta_us_open|birrell|k|marcinko|p,1.0,True,90.0,2026-08-30 21:03:33.406933+00:00,2026-08-30 22:15:00+00:00,71.44321778333332,0.520606
+tennis_wta_us_open|blinkova|a|kalinskaya|a,1.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-08-31 16:10:00+00:00,123.08094341666667,0.252018
+tennis_wta_us_open|boisson|l|navarro|e,1.0,True,90.0,2026-08-30 19:03:06.870469+00:00,2026-08-30 21:00:00+00:00,116.88549218333333,0.274187
+tennis_wta_us_open|bondar|a|havlickova|l,1.0,True,90.0,2026-09-01 17:18:57.365539+00:00,2026-09-01 18:40:00+00:00,81.04390768333333,0.616501
+tennis_wta_us_open|bondar|a|keys|m,1.0,True,90.0,2026-09-03 13:29:14.113478+00:00,2026-09-03 15:00:00+00:00,90.76477536666667,0.112394
+tennis_wta_us_open|boulter|k|muchova|k,1.0,True,90.0,2026-09-02 17:39:04.289689+00:00,2026-09-02 19:00:00+00:00,80.92850518333333,0.13457950000000002
+tennis_wta_us_open|boulter|k|young suh lee|c,1.0,True,90.0,2026-08-30 19:03:06.870469+00:00,2026-08-30 20:20:00+00:00,76.88549218333333,0.570201
+tennis_wta_us_open|bouzas maneiro|j|rybakina|e,1.0,True,90.0,2026-09-03 23:01:56.888969+00:00,2026-09-04 00:40:00+00:00,98.05185051666668,0.148119
+tennis_wta_us_open|bouzas maneiro|j|vidmanova|d,1.0,True,90.0,2026-09-01 20:11:33.706224+00:00,2026-09-01 21:15:00+00:00,63.4382296,0.511604
+tennis_wta_us_open|bouzkova|m|dart|h,1.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-03 16:10:00+00:00,105.0311241,0.842252
+tennis_wta_us_open|bouzkova|m|jacquemot|e,1.0,False,90.0,,,,
+tennis_wta_us_open|bouzkova|m|swiatek|i,1.0,False,90.0,,,,
+tennis_wta_us_open|brantmeier|r|oliynykova|o,1.0,True,90.0,2026-09-01 17:18:57.365539+00:00,2026-09-01 19:30:00+00:00,131.04390768333332,0.5
+tennis_wta_us_open|bucsa|c|gauff|c,1.0,False,90.0,,,,
+tennis_wta_us_open|bucsa|c|sakatsume|h,1.0,True,90.0,2026-09-03 17:04:48.520648+00:00,2026-09-03 18:30:00+00:00,85.19132253333333,0.637977
+tennis_wta_us_open|camila osorio serrano|m|sabalenka|a,1.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-08-31 15:30:00+00:00,83.08094341666667,0.0591445
+tennis_wta_us_open|chwalinska|m|townsend|t,1.0,False,90.0,,,,
+tennis_wta_us_open|cirstea|s|grabher|j,1.0,True,90.0,2026-08-31 18:11:30.787545+00:00,2026-08-31 19:20:00+00:00,68.48687425,0.911062
+tennis_wta_us_open|cirstea|s|paolini|j,1.0,True,90.0,2026-09-04 13:01:31.403971+00:00,2026-09-04 15:00:00+00:00,118.47660048333334,0.62397
+tennis_wta_us_open|cirstea|s|parry|d,1.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 15:00:00+00:00,93.98560898333334,0.72123
+tennis_wta_us_open|cocciaretto|e|siniakova|k,1.0,True,90.0,2026-08-31 19:13:32.802877+00:00,2026-08-31 20:25:00+00:00,71.45328538333334,0.373121
+tennis_wta_us_open|dart|h|stearns|p,1.0,False,90.0,,,,
+tennis_wta_us_open|eala|a|jovic|i,1.0,False,90.0,,,,
+tennis_wta_us_open|eala|a|oliynykova|o,1.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-03 16:40:00+00:00,135.0311241,0.892604
+tennis_wta_us_open|eala|a|stoiana|m,1.0,True,90.0,2026-09-01 23:29:01.164907+00:00,2026-09-02 00:45:00+00:00,75.98058488333332,0.80557
+tennis_wta_us_open|erjavec|v|paolini|j,1.0,True,90.0,2026-08-30 13:05:26.193270+00:00,2026-08-30 15:00:00+00:00,114.5634455,0.131163
+tennis_wta_us_open|fernandez|l|pegula|j,1.0,True,90.0,2026-09-04 14:01:35.360650+00:00,2026-09-04 15:30:00+00:00,88.41065583333334,0.1538635
+tennis_wta_us_open|fernandez|l|sawangkaew|m,1.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 15:00:00+00:00,93.98560898333334,0.713575
+tennis_wta_us_open|fernandez|l|zhang|s,1.0,True,90.0,2026-08-30 15:06:22.386027+00:00,2026-08-30 16:10:00+00:00,63.62689955,0.688733
+tennis_wta_us_open|frech|m|jovic|i,1.0,True,90.0,2026-09-01 20:11:33.706224+00:00,2026-09-01 21:30:00+00:00,78.43822960000001,0.24500349999999999
+tennis_wta_us_open|frodin|t|rybakina|e,1.0,True,90.0,2026-09-01 18:19:54.722289+00:00,2026-09-01 19:30:00+00:00,70.08796185,0.045462
+tennis_wta_us_open|gabriela ruse|e|pegula|j,1.0,True,90.0,2026-08-30 14:05:34.697092+00:00,2026-08-30 16:00:00+00:00,114.42171513333332,0.086576
+tennis_wta_us_open|gauff|c|sonmez|z,1.0,True,90.0,2026-09-01 21:25:14.859845+00:00,2026-09-01 23:00:00+00:00,94.75233591666667,0.950954
+tennis_wta_us_open|gibson|t|vekic|d,1.0,True,90.0,2026-08-30 13:05:26.193270+00:00,2026-08-30 15:00:00+00:00,114.5634455,0.526439
+tennis_wta_us_open|golubic|v|parry|d,1.0,True,90.0,2026-08-31 17:09:13.857981+00:00,2026-08-31 19:00:00+00:00,110.76903365,0.474624
+tennis_wta_us_open|hunter|s|kostyuk|m,1.0,True,90.0,2026-08-30 15:06:22.386027+00:00,2026-08-30 16:40:00+00:00,93.62689955,0.09940399999999999
+tennis_wta_us_open|iatcenko|p|sabalenka|a,1.0,True,90.0,2026-09-02 21:23:29.753478+00:00,2026-09-02 23:00:00+00:00,96.5041087,0.025915
+tennis_wta_us_open|iatcenko|p|zarazua|r,1.0,True,90.0,2026-08-30 13:05:26.193270+00:00,2026-08-30 15:00:00+00:00,114.5634455,0.449637
+tennis_wta_us_open|ito|a|selekhmeteva|o,1.0,True,90.0,2026-08-31 14:06:55.143395+00:00,2026-08-31 16:10:00+00:00,123.08094341666667,0.383407
+tennis_wta_us_open|jeanjean|l|potapova|a,1.0,True,90.0,2026-09-03 13:29:14.113478+00:00,2026-09-03 15:00:00+00:00,90.76477536666667,0.225296
+tennis_wta_us_open|jeanjean|l|rus|a,1.0,True,90.0,2026-09-01 21:25:14.859845+00:00,2026-09-01 22:50:00+00:00,84.75233591666667,0.641322
+tennis_wta_us_open|joint|m|samsonova|l,1.0,True,90.0,2026-08-31 20:14:32.305033+00:00,2026-08-31 21:55:00+00:00,100.46158278333334,0.284231
+tennis_wta_us_open|joint|m|svitolina|e,1.0,True,90.0,2026-09-02 23:18:42.330802+00:00,2026-09-03 00:30:00+00:00,71.29448663333332,0.107087
+tennis_wta_us_open|jones|f|jovic|i,1.0,True,90.0,2026-09-03 20:01:59.670733+00:00,2026-09-03 21:20:00+00:00,78.00548778333334,0.137403
+tennis_wta_us_open|jones|f|linette|m,1.0,True,90.0,2026-09-01 20:11:33.706224+00:00,2026-09-01 21:55:00+00:00,103.43822960000001,0.5
+tennis_wta_us_open|kalieva|e|tararudee|l,1.0,True,90.0,2026-08-30 15:06:22.386027+00:00,2026-08-30 16:40:00+00:00,93.62689955,0.325617
+tennis_wta_us_open|kalinina|a|sakatsume|h,1.0,False,90.0,,,,
+tennis_wta_us_open|kalinskaya|a|svitolina|e,1.0,False,90.0,,,,
+tennis_wta_us_open|kalinskaya|a|wang|x,1.0,True,90.0,2026-09-02 19:18:09.117101+00:00,2026-09-02 20:40:00+00:00,81.84804831666666,0.662831
+tennis_wta_us_open|kenin|s|pegula|j,1.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 15:30:00+00:00,123.98560898333334,0.0637105
+tennis_wta_us_open|kenin|s|williams|v,1.0,True,90.0,2026-08-30 23:03:05.391419+00:00,2026-08-31 00:40:00+00:00,96.91014301666668,0.870897
+tennis_wta_us_open|keys|m|korneeva|a,1.0,True,90.0,2026-09-01 14:23:42.625995+00:00,2026-09-01 15:30:00+00:00,66.28956675,0.7180975
+tennis_wta_us_open|keys|m|zheng|q,1.0,False,90.0,,,,
+tennis_wta_us_open|knutson|g|lys|e,1.0,True,90.0,2026-09-01 16:19:49.362049+00:00,2026-09-01 17:30:00+00:00,70.17729918333333,0.410824
+tennis_wta_us_open|koevermans|a|mcnally|c,1.0,True,90.0,2026-08-31 16:10:24.646122+00:00,2026-08-31 17:30:00+00:00,79.5892313,0.178635
+tennis_wta_us_open|korpatsch|t|tagger|l,1.0,False,90.0,,,,
+tennis_wta_us_open|kostyuk|m|stephens|s,1.0,True,90.0,2026-09-02 15:29:40.664791+00:00,2026-09-02 16:40:00+00:00,70.32225348333333,0.879418
+tennis_wta_us_open|kraus|s|muchova|k,1.0,False,90.0,,,,
+tennis_wta_us_open|krejcikova|b|rakhimova|k,1.0,True,90.0,2026-08-30 13:05:26.193270+00:00,2026-08-30 15:00:00+00:00,114.5634455,0.755956
+tennis_wta_us_open|liutova|k|zheng|q,1.0,False,90.0,,,,
+tennis_wta_us_open|li|a|noskova|l,1.0,True,90.0,2026-09-04 16:02:08.866301+00:00,2026-09-04 18:10:00+00:00,127.85222831666667,0.242608
+tennis_wta_us_open|li|a|ruzic|a,1.0,True,90.0,2026-08-31 18:11:30.787545+00:00,2026-08-31 19:20:00+00:00,68.48687425,0.75713
+tennis_wta_us_open|li|a|vekic|d,1.0,True,90.0,2026-09-02 21:23:29.753478+00:00,2026-09-02 22:25:00+00:00,61.504108699999996,0.600894
+tennis_wta_us_open|maria|t|ostapenko|j,1.0,True,90.0,2026-09-01 19:18:47.772164+00:00,2026-09-01 20:25:00+00:00,66.20379726666667,0.420538
+tennis_wta_us_open|mcnally|c|navarro|e,1.0,True,90.0,2026-09-02 15:29:40.664791+00:00,2026-09-02 16:40:00+00:00,70.32225348333333,0.45728
+tennis_wta_us_open|mertens|e|osaka|n,1.0,False,90.0,,,,
+tennis_wta_us_open|mertens|e|quevedo|k,1.0,True,90.0,2026-09-01 17:18:57.365539+00:00,2026-09-01 18:50:00+00:00,91.04390768333333,0.842802
+tennis_wta_us_open|mertens|e|timofeeva|m,1.0,True,90.0,2026-09-03 13:29:14.113478+00:00,2026-09-03 15:00:00+00:00,90.76477536666667,0.746052
+tennis_wta_us_open|montgomery|r|sakkari|m,1.0,True,90.0,2026-09-01 16:19:49.362049+00:00,2026-09-01 17:30:00+00:00,70.17729918333333,0.399106
+tennis_wta_us_open|muchova|k|navarro|e,1.0,True,90.0,2026-09-04 16:02:08.866301+00:00,2026-09-04 18:10:00+00:00,127.85222831666667,0.797763
+tennis_wta_us_open|noskova|l|tararudee|l,1.0,True,90.0,2026-09-02 23:18:42.330802+00:00,2026-09-03 00:50:00+00:00,91.29448663333332,0.823244
+tennis_wta_us_open|noskova|l|volynets|k,1.0,True,90.0,2026-08-31 19:13:32.802877+00:00,2026-08-31 20:30:00+00:00,76.45328538333334,0.74496
+tennis_wta_us_open|osaka|n|siniakova|k,1.0,True,90.0,2026-09-03 14:24:58.132554+00:00,2026-09-03 15:30:00+00:00,65.0311241,0.779827
+tennis_wta_us_open|osaka|n|zakharova|a,1.0,True,90.0,2026-08-31 23:18:15.004004+00:00,2026-09-01 00:40:00+00:00,81.74993326666666,0.901966
+tennis_wta_us_open|paolini|j|stefanini|l,1.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 15:00:00+00:00,93.98560898333334,0.682083
+tennis_wta_us_open|parks|a|preston|t,1.0,True,90.0,2026-08-30 18:06:30.227076+00:00,2026-08-30 19:30:00+00:00,83.4962154,0.50578
+tennis_wta_us_open|pliskova|k|shnaider|d,1.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 15:00:00+00:00,93.98560898333334,0.219898
+tennis_wta_us_open|pliskova|k|vandewinkel|h,1.0,True,90.0,2026-08-30 17:07:24.561804+00:00,2026-08-30 18:20:00+00:00,72.5906366,0.490717
+tennis_wta_us_open|podoroska|n|swiatek|i,1.0,True,90.0,2026-09-03 13:29:14.113478+00:00,2026-09-03 15:00:00+00:00,90.76477536666667,0.013882
+tennis_wta_us_open|podoroska|n|waltert|s,1.0,False,90.0,,,,
+tennis_wta_us_open|potapova|a|semenistaja|d,1.0,True,90.0,2026-09-01 18:19:54.722289+00:00,2026-09-01 19:30:00+00:00,70.08796185,0.7994935
+tennis_wta_us_open|potapova|a|valentova|t,1.0,False,90.0,,,,
+tennis_wta_us_open|preston|t|townsend|t,1.0,True,90.0,2026-09-02 13:26:00.863461+00:00,2026-09-02 15:00:00+00:00,93.98560898333334,0.208318
+tennis_wta_us_open|putintseva|y|zheng|q,1.0,True,90.0,2026-09-03 16:02:04.790792+00:00,2026-09-03 17:05:00+00:00,62.92015346666667,0.307232
+tennis_wta_us_open|rakhimova|k|sabalenka|a,1.0,True,90.0,2026-09-04 13:01:31.403971+00:00,2026-09-04 15:00:00+00:00,118.47660048333334,0.049046
+tennis_wta_us_open|rakhimova|k|selekhmeteva|o,1.0,True,90.0,2026-09-02 17:39:04.289689+00:00,2026-09-02 18:40:00+00:00,60.92850518333333,0.63868
+tennis_wta_us_open|rybakina|e|starodubtseva|y,1.0,False,90.0,,,,
+tennis_wta_us_open|sakkari|m|starodubtseva|y,1.0,True,90.0,2026-09-03 20:01:59.670733+00:00,2026-09-03 21:20:00+00:00,78.00548778333334,0.642681
+tennis_wta_us_open|sawangkaew|m|udvardy|p,1.0,False,90.0,,,,
+tennis_wta_us_open|seidel|e|starodubtseva|y,1.0,True,90.0,2026-09-01 16:19:49.362049+00:00,2026-09-01 17:30:00+00:00,70.17729918333333,0.266916
+tennis_wta_us_open|shnaider|d|snigur|d,1.0,True,90.0,2026-08-31 18:11:30.787545+00:00,2026-08-31 19:35:00+00:00,83.48687425,0.677384
+tennis_wta_us_open|shnaider|d|townsend|t,1.0,True,90.0,2026-09-04 15:01:58.286052+00:00,2026-09-04 17:00:00+00:00,118.0285658,0.611167
+tennis_wta_us_open|sierra|s|svitolina|e,1.0,True,90.0,2026-08-30 21:03:33.406933+00:00,2026-08-30 23:00:00+00:00,116.44321778333332,0.077573
+tennis_wta_us_open|stefanini|l|yastremska|d,1.0,True,90.0,2026-08-30 15:06:22.386027+00:00,2026-08-30 16:40:00+00:00,93.62689955,0.439488
+tennis_wta_us_open|stephens|s|tauson|c,1.0,True,90.0,2026-08-31 19:13:32.802877+00:00,2026-08-31 20:40:00+00:00,86.45328538333334,0.292379
+tennis_wta_us_open|swiatek|i|wang|x,1.0,True,90.0,2026-08-31 21:13:37.799096+00:00,2026-08-31 23:00:00+00:00,106.37001506666667,0.932909
+tennis_wta_us_open|timofeeva|m|zidansek|t,1.0,False,90.0,,,,
