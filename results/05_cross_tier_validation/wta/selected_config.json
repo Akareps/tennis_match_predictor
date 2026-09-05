@@ -1,0 +1,42 @@
+{
+  "base_model": {
+    "candidate": "rank_s25_w15_k125",
+    "family": "rank_warmstart",
+    "k_multiplier": 1.25,
+    "surface_weight": 0.25,
+    "warmup_matches": 15
+  },
+  "cold_start_definition": "either player has fewer than 30 prior main-tour matches",
+  "lower_tier_policy": "history strictly before each validation year",
+  "selected": {
+    "main_only": {
+      "candidate": "main_only__q000_c000_d000",
+      "challenger_weight": 0.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 0.0,
+      "variant": "main_only"
+    },
+    "plus_challenger": {
+      "candidate": "plus_challenger__q100_c100_d000",
+      "challenger_weight": 1.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 1.0,
+      "variant": "plus_challenger"
+    },
+    "plus_developmental": {
+      "candidate": "plus_developmental__q100_c100_d000",
+      "challenger_weight": 1.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 1.0,
+      "variant": "plus_developmental"
+    },
+    "plus_qualifying": {
+      "candidate": "plus_qualifying__q100_c000_d000",
+      "challenger_weight": 0.0,
+      "developmental_weight": 0.0,
+      "qualifying_weight": 1.0,
+      "variant": "plus_qualifying"
+    }
+  },
+  "selection_metric": "pooled cold-start main-tour log loss"
+}

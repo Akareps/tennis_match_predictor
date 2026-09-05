@@ -1,5 +1,12 @@
 # Tennis Match Prediction — Final Project Report
 
+> **Current reproducible pipeline:** see [EXPERIMENTS.md](EXPERIMENTS.md) for
+> the leakage-aware stages, exact commands, input hashes, and current ATP/WTA
+> results. The rebuild now includes free lower-tier histories, workload and
+> availability, and dynamic event-condition score experiments. The material below is retained as the original
+> research archive; its old quick-start commands and headline numbers are not
+> the supported current workflow.
+
 A multi-iteration empirical investigation into whether amateur quantitative
 modeling can beat sharp tennis betting markets, with a focus on ATP and WTA
 main-tour singles using publicly available match data.

@@ -1,0 +1,25 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=300
+content-disposition: attachment; filename="oddsgap-tennis-20260828-to-20260904.csv"
+Content-Type: text/csv; charset=utf-8
+Date: Fri, 04 Sep 2026 16:23:25 GMT
+retry-after: 60
+Server: railway-hikari
+vary: Accept-Encoding
+x-access-tier: free
+x-data-lane: default
+x-freshness-budget-seconds: 300
+x-railway-request-id: YrodXX-UQWyjaG3HxtoGcA
+x-ratelimit-limit: 6
+x-ratelimit-remaining: 5
+x-ratelimit-reset: 1788539066
+x-source-row-cap: 250000
+x-window-clamped: 0
+x-window-end: 2026-09-04T16:23:25.395269Z
+x-window-max-days: 7
+x-window-start: 2026-08-28T16:23:25.395269Z
+Transfer-Encoding: chunked
+x-hikari-trace: zrh1.3dmv
+x-railway-edge: zrh1
+Connection: keep-alive
+

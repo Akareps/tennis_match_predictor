@@ -1,0 +1,131 @@
+{
+  "locked_best_variant": {
+    "deciding_set": "plus_score_conditions",
+    "over_22_5": "plus_score_conditions"
+  },
+  "persistence_event_priors": {
+    "ace": 16.0,
+    "hold": 16.0,
+    "serve_win": 16.0
+  },
+  "selected": {
+    "deciding_set": {
+      "player_context_baseline": {
+        "candidate": "player_context_baseline__l2_1000__event_prior_none",
+        "event_prior_matches": null,
+        "features": [
+          "expected_ace_rate",
+          "expected_serve_win_rate",
+          "expected_hold_rate",
+          "expected_deciding_set_rate",
+          "expected_over_22_5_rate",
+          "surface_clay",
+          "surface_grass",
+          "surface_hard",
+          "surface_carpet",
+          "level_grand_slam",
+          "level_masters",
+          "round_order_scaled",
+          "rank_mean_log",
+          "rank_gap_log",
+          "rank_missing_count",
+          "log_point_evidence",
+          "log_score_evidence",
+          "log_event_prior_matches"
+        ],
+        "l2": 1000.0,
+        "validation_log_loss": 0.6399111810615512,
+        "validation_n": 2439
+      },
+      "plus_score_conditions": {
+        "candidate": "plus_score_conditions__l2_1000__event_prior_0",
+        "event_prior_matches": 0.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition",
+          "event_deciding_set_condition",
+          "event_over_22_5_condition"
+        ],
+        "l2": 1000.0,
+        "validation_log_loss": 0.6397886399472374,
+        "validation_n": 2439
+      },
+      "plus_serve_conditions": {
+        "candidate": "plus_serve_conditions__l2_10000__event_prior_32",
+        "event_prior_matches": 32.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition"
+        ],
+        "l2": 10000.0,
+        "validation_log_loss": 0.6399023011370009,
+        "validation_n": 2439
+      }
+    },
+    "over_22_5": {
+      "player_context_baseline": {
+        "candidate": "player_context_baseline__l2_1000__event_prior_none",
+        "event_prior_matches": null,
+        "features": [
+          "expected_ace_rate",
+          "expected_serve_win_rate",
+          "expected_hold_rate",
+          "expected_deciding_set_rate",
+          "expected_over_22_5_rate",
+          "surface_clay",
+          "surface_grass",
+          "surface_hard",
+          "surface_carpet",
+          "level_grand_slam",
+          "level_masters",
+          "round_order_scaled",
+          "rank_mean_log",
+          "rank_gap_log",
+          "rank_missing_count",
+          "log_point_evidence",
+          "log_score_evidence",
+          "log_event_prior_matches"
+        ],
+        "l2": 1000.0,
+        "validation_log_loss": 0.664129594644644,
+        "validation_n": 2439
+      },
+      "plus_score_conditions": {
+        "candidate": "plus_score_conditions__l2_0.1__event_prior_0",
+        "event_prior_matches": 0.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition",
+          "event_deciding_set_condition",
+          "event_over_22_5_condition"
+        ],
+        "l2": 0.1,
+        "validation_log_loss": 0.6635589199624247,
+        "validation_n": 2439
+      },
+      "plus_serve_conditions": {
+        "candidate": "plus_serve_conditions__l2_1000__event_prior_32",
+        "event_prior_matches": 32.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition"
+        ],
+        "l2": 1000.0,
+        "validation_log_loss": 0.6640452444362059,
+        "validation_n": 2439
+      }
+    }
+  },
+  "selection_metric": "all-match binary log loss",
+  "training_years": [
+    2022
+  ],
+  "validation_year": 2023,
+  "warmup_years": [
+    2021
+  ]
+}

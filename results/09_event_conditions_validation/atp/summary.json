@@ -1,0 +1,140 @@
+{
+  "benchmark_status": "pre-2024 validation only",
+  "final_holdout_loaded": false,
+  "forecast_horizon": "round",
+  "locked_best_variant": {
+    "deciding_set": "player_context_baseline",
+    "over_22_5": "player_context_baseline"
+  },
+  "panel_rows": 8636,
+  "persistence_event_priors": {
+    "ace": 8.0,
+    "hold": 16.0,
+    "serve_win": 8.0
+  },
+  "selected": {
+    "deciding_set": {
+      "player_context_baseline": {
+        "candidate": "player_context_baseline__l2_1000__event_prior_none",
+        "event_prior_matches": null,
+        "features": [
+          "expected_ace_rate",
+          "expected_serve_win_rate",
+          "expected_hold_rate",
+          "expected_deciding_set_rate",
+          "expected_over_22_5_rate",
+          "surface_clay",
+          "surface_grass",
+          "surface_hard",
+          "surface_carpet",
+          "level_grand_slam",
+          "level_masters",
+          "round_order_scaled",
+          "rank_mean_log",
+          "rank_gap_log",
+          "rank_missing_count",
+          "log_point_evidence",
+          "log_score_evidence",
+          "log_event_prior_matches"
+        ],
+        "l2": 1000.0,
+        "validation_log_loss": 0.6567291896001021,
+        "validation_n": 2163
+      },
+      "plus_score_conditions": {
+        "candidate": "plus_score_conditions__l2_10000__event_prior_0",
+        "event_prior_matches": 0.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition",
+          "event_deciding_set_condition",
+          "event_over_22_5_condition"
+        ],
+        "l2": 10000.0,
+        "validation_log_loss": 0.6568439118333081,
+        "validation_n": 2163
+      },
+      "plus_serve_conditions": {
+        "candidate": "plus_serve_conditions__l2_10000__event_prior_0",
+        "event_prior_matches": 0.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition"
+        ],
+        "l2": 10000.0,
+        "validation_log_loss": 0.656791332728811,
+        "validation_n": 2163
+      }
+    },
+    "over_22_5": {
+      "player_context_baseline": {
+        "candidate": "player_context_baseline__l2_1000__event_prior_none",
+        "event_prior_matches": null,
+        "features": [
+          "expected_ace_rate",
+          "expected_serve_win_rate",
+          "expected_hold_rate",
+          "expected_deciding_set_rate",
+          "expected_over_22_5_rate",
+          "surface_clay",
+          "surface_grass",
+          "surface_hard",
+          "surface_carpet",
+          "level_grand_slam",
+          "level_masters",
+          "round_order_scaled",
+          "rank_mean_log",
+          "rank_gap_log",
+          "rank_missing_count",
+          "log_point_evidence",
+          "log_score_evidence",
+          "log_event_prior_matches"
+        ],
+        "l2": 1000.0,
+        "validation_log_loss": 0.6863555465282395,
+        "validation_n": 2163
+      },
+      "plus_score_conditions": {
+        "candidate": "plus_score_conditions__l2_10000__event_prior_0",
+        "event_prior_matches": 0.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition",
+          "event_deciding_set_condition",
+          "event_over_22_5_condition"
+        ],
+        "l2": 10000.0,
+        "validation_log_loss": 0.686491486981045,
+        "validation_n": 2163
+      },
+      "plus_serve_conditions": {
+        "candidate": "plus_serve_conditions__l2_10000__event_prior_0",
+        "event_prior_matches": 0.0,
+        "features": [
+          "event_ace_condition",
+          "event_serve_win_condition",
+          "event_hold_condition"
+        ],
+        "l2": 10000.0,
+        "validation_log_loss": 0.686416970016907,
+        "validation_n": 2163
+      }
+    }
+  },
+  "selection_metric": "all-match binary log loss",
+  "target_definitions": {
+    "deciding_set": "a completed conventional best-of-three match reached a third set",
+    "over_22_5": "at least 23 games in a completed conventional best-of-three match"
+  },
+  "tour": "atp",
+  "training_years": [
+    2022
+  ],
+  "validation_year": 2023,
+  "warmup_years": [
+    2021
+  ]
+}

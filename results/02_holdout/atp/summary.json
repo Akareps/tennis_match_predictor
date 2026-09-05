@@ -1,0 +1,39 @@
+{
+  "cohort_date_max": "2024-11-17 00:00:00",
+  "cohort_date_min": "2024-01-01 00:00:00",
+  "common_matches_per_model": 2442,
+  "market_cohort": "complete Pinnacle pair only",
+  "models": [
+    "draw__overall_elo",
+    "draw__rank_warmstart",
+    "draw__surface_elo",
+    "round__overall_elo",
+    "round__rank_warmstart",
+    "round__surface_elo"
+  ],
+  "retirements_evaluated": false,
+  "retirements_updated": false,
+  "selected": {
+    "overall_elo": {
+      "candidate": "overall_k125",
+      "family": "overall_elo",
+      "k_multiplier": 1.25
+    },
+    "rank_warmstart": {
+      "candidate": "rank_s25_w30_k125",
+      "family": "rank_warmstart",
+      "k_multiplier": 1.25,
+      "surface_weight": 0.25,
+      "warmup_matches": 30
+    },
+    "surface_elo": {
+      "candidate": "surface_s25_k125",
+      "family": "surface_elo",
+      "k_multiplier": 1.25,
+      "surface_weight": 0.25
+    }
+  },
+  "test_end": "2025-01-01 00:00:00",
+  "test_start": "2024-01-01 00:00:00",
+  "tour": "atp"
+}

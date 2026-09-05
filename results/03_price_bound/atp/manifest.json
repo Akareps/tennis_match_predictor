@@ -1,0 +1,300 @@
+{
+  "created_utc": "2026-09-04T11:49:11.238870+00:00",
+  "history_start": 2021,
+  "implementation": [
+    {
+      "bytes": 533,
+      "path": "tennis_experiments\\__init__.py",
+      "sha256": "7d24c2a60f5ee7c049a4500852fc044327b04c99e434f2ac5c38ef0e86f2d00e"
+    },
+    {
+      "bytes": 7410,
+      "path": "tennis_experiments\\backtest.py",
+      "sha256": "86407ebe157868f233dda922ab90016eaf3d977dcb0e698293e13023abb77973"
+    },
+    {
+      "bytes": 8597,
+      "path": "tennis_experiments\\data.py",
+      "sha256": "556499951b4fec3342fc0d043e90f9e001963157befce29a40100566395b5dae"
+    },
+    {
+      "bytes": 27511,
+      "path": "tennis_experiments\\experiment.py",
+      "sha256": "2ffc3f3fd5f729d317bc6f56edaab18e5d07a262fb82084f08a1aabe9319b9f4"
+    },
+    {
+      "bytes": 30404,
+      "path": "tennis_experiments\\linkage.py",
+      "sha256": "57dd1bc8d2bcc878de17af16e9e918900823099cb9d0f772908c2c4a9483e393"
+    },
+    {
+      "bytes": 6878,
+      "path": "tennis_experiments\\metrics.py",
+      "sha256": "df4e3a9ca8800ca738954ff67aa34a421b52b6691a765e153870665f82136ca0"
+    },
+    {
+      "bytes": 10403,
+      "path": "tennis_experiments\\models.py",
+      "sha256": "c0ab30cb8bedb363278c5750c522f9c453183308588726f940c61f1d3604c9de"
+    },
+    {
+      "bytes": 12197,
+      "path": "tennis_experiments\\odds.py",
+      "sha256": "c9ff1ef02b5f819d80c1d65335bde8bfd2908ef56c4901eb5d7fe21c2bc5bdfd"
+    },
+    {
+      "bytes": 5162,
+      "path": "tennis_experiments\\validation.py",
+      "sha256": "b255fe74b8fde8379ba313b2972496e2b17721eb27f09c0048c6a930cde9d4ed"
+    },
+    {
+      "bytes": 1792,
+      "path": "run_experiments.py",
+      "sha256": "fc7756570fea3c91182a815317636a8df330e6aa74f4cf80e63d6c7c9e781554"
+    }
+  ],
+  "inputs": [
+    {
+      "bytes": 573056,
+      "path": "data\\atp_matches_2021.csv",
+      "sha256": "b9b1d31a4b0b9273b8f338cbb1347c5a847ad2361334ec760a286f5990fba347"
+    },
+    {
+      "bytes": 608789,
+      "path": "data\\atp_matches_2022.csv",
+      "sha256": "7190042565ab8400e74f44fda60700acb36ddf3c82d393f331a07589e05b5f52"
+    },
+    {
+      "bytes": 625341,
+      "path": "data\\atp_matches_2023.csv",
+      "sha256": "9b9671aa7c8156e74c2e4466675b7ed4e762bb8a58b7237a30daefd84ffceff5"
+    },
+    {
+      "bytes": 650136,
+      "path": "data\\atp_matches_2024.csv",
+      "sha256": "73aec32247a0db68d8aa8fd8003eefea132905177f1cb145502d9215b53311be"
+    },
+    {
+      "bytes": 445729,
+      "path": "odds_data\\atp_2024.xlsx",
+      "sha256": "d92a4d4167cfece60b624e81ba8d6724d90a4704637341bb0bc87539a36c746a"
+    }
+  ],
+  "numpy": "2.3.5",
+  "package_version": "0.1.0",
+  "pandas": "3.0.1",
+  "python": "3.12.14",
+  "rows": [
+    {
+      "bets": 2181,
+      "family": "overall_elo",
+      "horizon": "draw",
+      "mean_price": 3.316602475928473,
+      "price_source": "pinnacle",
+      "profit": -207.98000000000002,
+      "roi": -0.09535992663915636,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2179,
+      "family": "overall_elo",
+      "horizon": "draw",
+      "mean_price": 3.0573428178063335,
+      "price_source": "bet365",
+      "profit": -275.01,
+      "roi": -0.1262092703074805,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2181,
+      "family": "overall_elo",
+      "horizon": "draw",
+      "mean_price": 3.4055112333791837,
+      "price_source": "ex_post_maximum",
+      "profit": -172.47000000000003,
+      "roi": -0.07907840440165063,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2183,
+      "family": "rank_warmstart",
+      "horizon": "draw",
+      "mean_price": 3.50171781951443,
+      "price_source": "pinnacle",
+      "profit": -197.70000000000002,
+      "roi": -0.09056344480073295,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2181,
+      "family": "rank_warmstart",
+      "horizon": "draw",
+      "mean_price": 3.2135855112333798,
+      "price_source": "bet365",
+      "profit": -269.58000000000004,
+      "roi": -0.12360385144429163,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2183,
+      "family": "rank_warmstart",
+      "horizon": "draw",
+      "mean_price": 3.5928630325240496,
+      "price_source": "ex_post_maximum",
+      "profit": -162.88000000000002,
+      "roi": -0.07461291800274852,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2173,
+      "family": "surface_elo",
+      "horizon": "draw",
+      "mean_price": 3.524196962724344,
+      "price_source": "pinnacle",
+      "profit": -197.63000000000002,
+      "roi": -0.09094799815922688,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2171,
+      "family": "surface_elo",
+      "horizon": "draw",
+      "mean_price": 3.236453247351451,
+      "price_source": "bet365",
+      "profit": -270.63,
+      "roi": -0.1246568401658222,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2173,
+      "family": "surface_elo",
+      "horizon": "draw",
+      "mean_price": 3.616746433502071,
+      "price_source": "ex_post_maximum",
+      "profit": -163.05000000000004,
+      "roi": -0.07503451449608838,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2169,
+      "family": "overall_elo",
+      "horizon": "round",
+      "mean_price": 3.3588151221761184,
+      "price_source": "pinnacle",
+      "profit": -189.67000000000002,
+      "roi": -0.0874458275703089,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2167,
+      "family": "overall_elo",
+      "horizon": "round",
+      "mean_price": 3.093991693585602,
+      "price_source": "bet365",
+      "profit": -259.53999999999996,
+      "roi": -0.11976926626672818,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2169,
+      "family": "overall_elo",
+      "horizon": "round",
+      "mean_price": 3.44840479483633,
+      "price_source": "ex_post_maximum",
+      "profit": -154.12,
+      "roi": -0.07105578607653297,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2163,
+      "family": "rank_warmstart",
+      "horizon": "round",
+      "mean_price": 3.525533980582524,
+      "price_source": "pinnacle",
+      "profit": -202.28999999999996,
+      "roi": -0.09352288488210816,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2161,
+      "family": "rank_warmstart",
+      "horizon": "round",
+      "mean_price": 3.2367329939842664,
+      "price_source": "bet365",
+      "profit": -275.13,
+      "roi": -0.1273160573808422,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2163,
+      "family": "rank_warmstart",
+      "horizon": "round",
+      "mean_price": 3.6177531206657414,
+      "price_source": "ex_post_maximum",
+      "profit": -167.46,
+      "roi": -0.07742024965325936,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2167,
+      "family": "surface_elo",
+      "horizon": "round",
+      "mean_price": 3.5314443931702817,
+      "price_source": "pinnacle",
+      "profit": -220.83999999999997,
+      "roi": -0.10191047531149053,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2165,
+      "family": "surface_elo",
+      "horizon": "round",
+      "mean_price": 3.2433810623556583,
+      "price_source": "bet365",
+      "profit": -292.63,
+      "roi": -0.13516397228637414,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    },
+    {
+      "bets": 2167,
+      "family": "surface_elo",
+      "horizon": "round",
+      "mean_price": 3.6234287032764185,
+      "price_source": "ex_post_maximum",
+      "profit": -185.93,
+      "roi": -0.08580064605445316,
+      "selection_rule": "positive expected value at Pinnacle close",
+      "tour": "atp"
+    }
+  ],
+  "same_selections_across_price_sources": true,
+  "selection_rule": "positive model expected value using the Pinnacle closing price",
+  "stage": "03_price_bound",
+  "test_year": 2024,
+  "tour": "atp",
+  "upstream_artifacts": [
+    {
+      "bytes": 7390995,
+      "path": "results\\02_holdout\\atp\\common_cohort_predictions.csv",
+      "sha256": "a07fcfeac2f6a228dfe0260c3ad4fed54cddbd56c00051b932d7c774947025ff"
+    }
+  ],
+  "warning": "MaxW/MaxL is an ex-post best quoted price, not proof that a bet was executable."
+}

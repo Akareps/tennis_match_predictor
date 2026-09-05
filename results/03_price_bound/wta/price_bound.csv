@@ -1,0 +1,19 @@
+tour,horizon,family,selection_rule,price_source,bets,profit,roi,mean_price
+wta,draw,overall_elo,positive expected value at Pinnacle close,pinnacle,1915,-241.82,-0.12627676240208877,3.427832898172324
+wta,draw,overall_elo,positive expected value at Pinnacle close,bet365,1913,-293.77,-0.15356508102456873,3.1538839519079973
+wta,draw,overall_elo,positive expected value at Pinnacle close,ex_post_maximum,1915,-199.3,-0.10407310704960836,3.5325430809399476
+wta,draw,rank_warmstart,positive expected value at Pinnacle close,pinnacle,1929,-191.58000000000004,-0.0993157076205288,3.6299688958009333
+wta,draw,rank_warmstart,positive expected value at Pinnacle close,bet365,1927,-249.9,-0.12968344577062793,3.332169174883238
+wta,draw,rank_warmstart,positive expected value at Pinnacle close,ex_post_maximum,1928,-147.99,-0.07675829875518672,3.7399948132780083
+wta,draw,surface_elo,positive expected value at Pinnacle close,pinnacle,1930,-187.17000000000002,-0.09697927461139898,3.6193471502590673
+wta,draw,surface_elo,positive expected value at Pinnacle close,bet365,1928,-245.32999999999998,-0.12724585062240662,3.3230549792531123
+wta,draw,surface_elo,positive expected value at Pinnacle close,ex_post_maximum,1929,-142.92000000000002,-0.07409020217729394,3.729611197511664
+wta,round,overall_elo,positive expected value at Pinnacle close,pinnacle,1915,-229.82999999999998,-0.12001566579634464,3.452104438642298
+wta,round,overall_elo,positive expected value at Pinnacle close,bet365,1913,-287.07,-0.1500627286983795,3.1808677469942497
+wta,round,overall_elo,positive expected value at Pinnacle close,ex_post_maximum,1915,-187.73999999999998,-0.09803655352480417,3.5575509138381203
+wta,round,rank_warmstart,positive expected value at Pinnacle close,pinnacle,1941,-193.31,-0.09959299330242144,3.6710716125708394
+wta,round,rank_warmstart,positive expected value at Pinnacle close,bet365,1939,-254.16,-0.13107787519339867,3.3716297060340383
+wta,round,rank_warmstart,positive expected value at Pinnacle close,ex_post_maximum,1940,-149.91000000000003,-0.07727319587628867,3.7819484536082473
+wta,round,surface_elo,positive expected value at Pinnacle close,pinnacle,1941,-194.01000000000005,-0.09995363214837714,3.6627305512622357
+wta,round,surface_elo,positive expected value at Pinnacle close,bet365,1939,-252.78,-0.13036616812790097,3.3640123775141824
+wta,round,surface_elo,positive expected value at Pinnacle close,ex_post_maximum,1940,-149.60000000000002,-0.07711340206185568,3.7736855670103093

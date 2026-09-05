@@ -1,0 +1,28 @@
+{
+  "books": 16,
+  "claim_boundary": "This stage validates timestamp, price, schedule-revision, and fixed-horizon handling only. It does not estimate accuracy, edge, execution, or profitability.",
+  "contains_outcomes": false,
+  "exact_duplicate_rows": 0,
+  "horizon_coverage": {
+    "1.0": 91,
+    "24.0": 94,
+    "6.0": 54
+  },
+  "inconsistent_schedule_snapshots": 0,
+  "matches": 115,
+  "matches_with_schedule_revisions": 96,
+  "median_scan_cadence_minutes": 60.151051966666664,
+  "median_snapshots_per_match": 31.0,
+  "performance_claim_allowed": false,
+  "post_start_rows": 0,
+  "pregame_rows": 108504,
+  "rows": 108504,
+  "snapshot_max": "2026-09-04 16:02:07.330731+00:00",
+  "snapshot_min": "2026-08-28 17:06:44.853796+00:00",
+  "snapshot_timestamps": 231,
+  "sports": {
+    "tennis_atp_us_open": 108504
+  },
+  "status": "intake validated; outcomes unavailable",
+  "tour": "atp"
+}

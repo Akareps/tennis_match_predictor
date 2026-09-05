@@ -1,0 +1,4 @@
+year,matches,either_missing_prior_history,either_recent_match_14d,either_same_event_load,either_recent_availability_event,minutes_missing_recent_total,minutes_missing_same_event_total
+2021,2733,459,2111,1422,504,109,129
+2022,2917,167,2344,1449,586,510,220
+2023,2986,130,2340,1516,642,392,8

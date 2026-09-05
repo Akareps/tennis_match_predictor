@@ -1,0 +1,138 @@
+{
+  "bootstrap_samples": 2000,
+  "created_utc": "2026-09-04T16:41:18.295787+00:00",
+  "forecast_horizon": "round",
+  "history_start": 2021,
+  "implementation": [
+    {
+      "bytes": 677,
+      "path": "tennis_experiments\\__init__.py",
+      "sha256": "44c4f0a8d2a46e76142fcc4bc04db3905b478105f2ff46b8adc60674e75afe52"
+    },
+    {
+      "bytes": 7774,
+      "path": "tennis_experiments\\backtest.py",
+      "sha256": "2323c4a2bbbeef82d3fb7b0fb0f2f7e3393a2e518d49cbe7f4187b8f7590ec41"
+    },
+    {
+      "bytes": 21981,
+      "path": "tennis_experiments\\cross_tier.py",
+      "sha256": "0393f740af1b55df30c81bb97861529d0fdcb2313c0735c3e40036ab1ed04697"
+    },
+    {
+      "bytes": 13582,
+      "path": "tennis_experiments\\data.py",
+      "sha256": "51b3d751db2db551b6970426446babca4d4c748f87355a6ae1d2d66de3716333"
+    },
+    {
+      "bytes": 29793,
+      "path": "tennis_experiments\\experiment.py",
+      "sha256": "d34a7d1ead6da71b35be04d88901ca5ff865ad67a214cbc9ec635b1b983dabb4"
+    },
+    {
+      "bytes": 30404,
+      "path": "tennis_experiments\\linkage.py",
+      "sha256": "57dd1bc8d2bcc878de17af16e9e918900823099cb9d0f772908c2c4a9483e393"
+    },
+    {
+      "bytes": 10651,
+      "path": "tennis_experiments\\market_data.py",
+      "sha256": "482635876fa131db86600d06ee53310447eaa63be66758cbea4b09c393886218"
+    },
+    {
+      "bytes": 6878,
+      "path": "tennis_experiments\\metrics.py",
+      "sha256": "df4e3a9ca8800ca738954ff67aa34a421b52b6691a765e153870665f82136ca0"
+    },
+    {
+      "bytes": 12593,
+      "path": "tennis_experiments\\models.py",
+      "sha256": "2514a7f208410e65eee60023d3cda827e8065b6cb058e6d80e44ab211af11340"
+    },
+    {
+      "bytes": 12197,
+      "path": "tennis_experiments\\odds.py",
+      "sha256": "c9ff1ef02b5f819d80c1d65335bde8bfd2908ef56c4901eb5d7fe21c2bc5bdfd"
+    },
+    {
+      "bytes": 5162,
+      "path": "tennis_experiments\\validation.py",
+      "sha256": "b255fe74b8fde8379ba313b2972496e2b17721eb27f09c0048c6a930cde9d4ed"
+    },
+    {
+      "bytes": 2108,
+      "path": "run_experiments.py",
+      "sha256": "8d54d46a68261f39f9342552103e17121bd74f7d5b191325ec51f38d2c07b120"
+    }
+  ],
+  "inputs": [
+    {
+      "bytes": 531828,
+      "path": "data\\wta_matches_2021.csv",
+      "sha256": "3f4b865fe9f68aedb3d51597740cf658cf805f676bae652f2bc93cbab4f6e99f"
+    },
+    {
+      "bytes": 530984,
+      "path": "data\\wta_matches_2022.csv",
+      "sha256": "f638cf65efefb01a1a10368c1d5217d5f90981fb76193ca3a9c3773c2abc2ba7"
+    },
+    {
+      "bytes": 569610,
+      "path": "data\\wta_matches_2023.csv",
+      "sha256": "b73bf74928155b858cdb7045f6334246336cef604286cb361e695df26911ad18"
+    },
+    {
+      "bytes": 542425,
+      "path": "data\\wta_matches_2024.csv",
+      "sha256": "d9bba2a0b3793f63c737ef62a809b82b56b3ad0ee94e1f95e78cecfac7615ed2"
+    },
+    {
+      "bytes": 406783,
+      "path": "odds_data\\wta_2024.xlsx",
+      "sha256": "0ce3a4e87c269253dd61e1ab4a3bbeb2d9acdd512f316189e5ad872c86c67b53"
+    }
+  ],
+  "lower_tier_inputs": [
+    {
+      "bytes": 4482919,
+      "path": "data\\wta_matches_qual_itf_2021.csv",
+      "sha256": "7e467660b77ac8652aae53736bfd77204303ed22bac2886b8d8582f47d4165fb"
+    },
+    {
+      "bytes": 6107506,
+      "path": "data\\wta_matches_qual_itf_2022.csv",
+      "sha256": "137d6eeeabac52f69b7a23f292da706bb6361c945af0dc4c9d0a1401bc57c4a5"
+    },
+    {
+      "bytes": 6318123,
+      "path": "data\\wta_matches_qual_itf_2023.csv",
+      "sha256": "5b8802d4b48d311c786e88e0f80ee0b80ac2581c824bc6cee9aacdb07f01080d"
+    },
+    {
+      "bytes": 2528,
+      "path": "data\\lower_tier_sources.json",
+      "sha256": "ba928a7e9e5435fa7be01c8604de5c9f7d375ea2ef20b4ce7a7920fff5119a76"
+    }
+  ],
+  "lower_tier_policy": "strictly pre-holdout history only",
+  "numpy": "2.3.5",
+  "package_version": "0.1.0",
+  "pandas": "3.0.1",
+  "python": "3.12.14",
+  "selection_metric": "pooled cold-start main-tour log loss",
+  "stage": "06_cross_tier_holdout",
+  "test_year": 2024,
+  "tour": "wta",
+  "upstream_artifacts": [
+    {
+      "bytes": 1327,
+      "path": "results\\05_cross_tier_validation\\wta\\selected_config.json",
+      "sha256": "18cc561ca8ff3e79608ad9a6756665febd406ccf1ded43edffc79c4931ca0dc6"
+    },
+    {
+      "bytes": 1828234,
+      "path": "results\\00_linkage\\wta\\linked_market.csv",
+      "sha256": "ef474260f0c12bceff3c0b332728fd811c3dd164718602ab3846cfa3d6ed4a2b"
+    }
+  ]
+}

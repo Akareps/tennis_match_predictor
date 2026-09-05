@@ -1,0 +1,153 @@
+{
+  "bootstrap_samples": 2000,
+  "created_utc": "2026-09-04T16:40:52.703692+00:00",
+  "forecast_horizon": "round",
+  "history_start": 2021,
+  "implementation": [
+    {
+      "bytes": 677,
+      "path": "tennis_experiments\\__init__.py",
+      "sha256": "44c4f0a8d2a46e76142fcc4bc04db3905b478105f2ff46b8adc60674e75afe52"
+    },
+    {
+      "bytes": 7774,
+      "path": "tennis_experiments\\backtest.py",
+      "sha256": "2323c4a2bbbeef82d3fb7b0fb0f2f7e3393a2e518d49cbe7f4187b8f7590ec41"
+    },
+    {
+      "bytes": 21981,
+      "path": "tennis_experiments\\cross_tier.py",
+      "sha256": "0393f740af1b55df30c81bb97861529d0fdcb2313c0735c3e40036ab1ed04697"
+    },
+    {
+      "bytes": 13582,
+      "path": "tennis_experiments\\data.py",
+      "sha256": "51b3d751db2db551b6970426446babca4d4c748f87355a6ae1d2d66de3716333"
+    },
+    {
+      "bytes": 29793,
+      "path": "tennis_experiments\\experiment.py",
+      "sha256": "d34a7d1ead6da71b35be04d88901ca5ff865ad67a214cbc9ec635b1b983dabb4"
+    },
+    {
+      "bytes": 30404,
+      "path": "tennis_experiments\\linkage.py",
+      "sha256": "57dd1bc8d2bcc878de17af16e9e918900823099cb9d0f772908c2c4a9483e393"
+    },
+    {
+      "bytes": 10651,
+      "path": "tennis_experiments\\market_data.py",
+      "sha256": "482635876fa131db86600d06ee53310447eaa63be66758cbea4b09c393886218"
+    },
+    {
+      "bytes": 6878,
+      "path": "tennis_experiments\\metrics.py",
+      "sha256": "df4e3a9ca8800ca738954ff67aa34a421b52b6691a765e153870665f82136ca0"
+    },
+    {
+      "bytes": 12593,
+      "path": "tennis_experiments\\models.py",
+      "sha256": "2514a7f208410e65eee60023d3cda827e8065b6cb058e6d80e44ab211af11340"
+    },
+    {
+      "bytes": 12197,
+      "path": "tennis_experiments\\odds.py",
+      "sha256": "c9ff1ef02b5f819d80c1d65335bde8bfd2908ef56c4901eb5d7fe21c2bc5bdfd"
+    },
+    {
+      "bytes": 5162,
+      "path": "tennis_experiments\\validation.py",
+      "sha256": "b255fe74b8fde8379ba313b2972496e2b17721eb27f09c0048c6a930cde9d4ed"
+    },
+    {
+      "bytes": 2108,
+      "path": "run_experiments.py",
+      "sha256": "8d54d46a68261f39f9342552103e17121bd74f7d5b191325ec51f38d2c07b120"
+    }
+  ],
+  "inputs": [
+    {
+      "bytes": 573056,
+      "path": "data\\atp_matches_2021.csv",
+      "sha256": "b9b1d31a4b0b9273b8f338cbb1347c5a847ad2361334ec760a286f5990fba347"
+    },
+    {
+      "bytes": 608789,
+      "path": "data\\atp_matches_2022.csv",
+      "sha256": "7190042565ab8400e74f44fda60700acb36ddf3c82d393f331a07589e05b5f52"
+    },
+    {
+      "bytes": 625341,
+      "path": "data\\atp_matches_2023.csv",
+      "sha256": "9b9671aa7c8156e74c2e4466675b7ed4e762bb8a58b7237a30daefd84ffceff5"
+    },
+    {
+      "bytes": 650136,
+      "path": "data\\atp_matches_2024.csv",
+      "sha256": "73aec32247a0db68d8aa8fd8003eefea132905177f1cb145502d9215b53311be"
+    },
+    {
+      "bytes": 445729,
+      "path": "odds_data\\atp_2024.xlsx",
+      "sha256": "d92a4d4167cfece60b624e81ba8d6724d90a4704637341bb0bc87539a36c746a"
+    }
+  ],
+  "lower_tier_inputs": [
+    {
+      "bytes": 1550593,
+      "path": "data\\atp_matches_qual_chall_2021.csv",
+      "sha256": "ac62e3a031aab95ee4724082c2d7a224d6d9662aad0554c8c57712004877ac0a"
+    },
+    {
+      "bytes": 2249760,
+      "path": "data\\atp_matches_futures_2021.csv",
+      "sha256": "b7d15094ad1c7f8c9d3c9264cfc51031ee27e86979a3afd665149c3ea38adf03"
+    },
+    {
+      "bytes": 2071897,
+      "path": "data\\atp_matches_qual_chall_2022.csv",
+      "sha256": "455dd77775e3f5a5b7ece184af780ba97b548c19d9e49b2073191581443346fb"
+    },
+    {
+      "bytes": 3089510,
+      "path": "data\\atp_matches_futures_2022.csv",
+      "sha256": "51a9968419f73985f47baa09de526a6b609f6c404e099194cdf638d9c8825fbf"
+    },
+    {
+      "bytes": 2206998,
+      "path": "data\\atp_matches_qual_chall_2023.csv",
+      "sha256": "cce51f50a75adc60aefdf131c7285d440605fcb0abf7d4c507f01fba689fe882"
+    },
+    {
+      "bytes": 3348959,
+      "path": "data\\atp_matches_futures_2023.csv",
+      "sha256": "aba255ade094f1baf0a93473e4ff984170465d6a97746be01cba68eeb9497be3"
+    },
+    {
+      "bytes": 2528,
+      "path": "data\\lower_tier_sources.json",
+      "sha256": "ba928a7e9e5435fa7be01c8604de5c9f7d375ea2ef20b4ce7a7920fff5119a76"
+    }
+  ],
+  "lower_tier_policy": "strictly pre-holdout history only",
+  "numpy": "2.3.5",
+  "package_version": "0.1.0",
+  "pandas": "3.0.1",
+  "python": "3.12.14",
+  "selection_metric": "pooled cold-start main-tour log loss",
+  "stage": "06_cross_tier_holdout",
+  "test_year": 2024,
+  "tour": "atp",
+  "upstream_artifacts": [
+    {
+      "bytes": 1327,
+      "path": "results\\05_cross_tier_validation\\atp\\selected_config.json",
+      "sha256": "40c1ccddce879e10b235e4cc9c0947b7cfffb4c0af3ebf26e86da8d846f98614"
+    },
+    {
+      "bytes": 2055230,
+      "path": "results\\00_linkage\\atp\\linked_market.csv",
+      "sha256": "d6f3490841ee0e15794d403daa4837d2663a2f6fe712084623b0d0ee36ba3304"
+    }
+  ]
+}

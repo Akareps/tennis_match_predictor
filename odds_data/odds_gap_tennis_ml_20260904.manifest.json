@@ -1,0 +1,25 @@
+{
+  "source": "The Odds Gap raw snapshots export",
+  "source_url": "https://theoddsgap.com/api/odds-export.csv?sport=tennis&market=ml",
+  "documentation_url": "https://theoddsgap.com/data",
+  "retrieved_utc": "2026-09-04T16:23:25Z",
+  "access_tier": "free",
+  "served_window_start": "2026-08-28T16:23:25.395269Z",
+  "served_window_end": "2026-09-04T16:23:25.395269Z",
+  "window_days": 7,
+  "raw_file": "odds_gap_tennis_ml_20260904.csv",
+  "response_headers_file": "odds_gap_tennis_ml_20260904.headers.txt",
+  "bytes": 29928335,
+  "rows": 216408,
+  "sha256": "3275fff3a9849e13d4285807a00c30fcf1d358935af120768d1de2df9a453783",
+  "distinct_snapshot_timestamps": 442,
+  "columns": ["snapshot_ts", "sport", "away", "home", "commence_time", "market", "side", "line", "book", "american_odds", "devig_fair_prob", "best_price_flag"],
+  "permission_note": "Free for research, modeling, and writing with attribution. Do not resell, repackage as a feed/product, redistribute the raw snapshot, or scrape in sustained bulk.",
+  "experiment_status": "intake_only_no_outcome_claim",
+  "limitations": [
+    "The anonymous history window is only seven days.",
+    "The file has no outcome, tournament-round, stable match identifier, exchange depth, or traded volume.",
+    "Scheduled start times can change; player pair and contemporaneous schedule must be retained.",
+    "This snapshot is suitable for parser and forecast-horizon validation, not profitability inference."
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "actual_match_date_max": "2024-11-09 00:00:00",
+  "actual_match_date_min": "2023-12-31 00:00:00",
+  "average_fallback_rows": 13,
+  "invalid_odds_rows": 139,
+  "link_rate": 0.8575678690963183,
+  "matched_rows": 2306,
+  "odds_rows": 2490,
+  "outcome_label_disagreements": 1,
+  "pinnacle_rows": 2290,
+  "priced_rows": 2303,
+  "reason_counts": {
+    "below_min_score": 1,
+    "matched": 2306,
+    "no_pair_candidate": 354,
+    "outside_date_window": 28
+  },
+  "sackmann_rows": 2689,
+  "tour": "wta",
+  "unmatched_sackmann_rows": 383,
+  "unused_valid_odds_rows": 45,
+  "valid_odds_rows": 2351
+}
